@@ -1,0 +1,6 @@
+permalink:  pretty
+paginate:   5
+auto:       true
+
+exclude:
+    - README.md
