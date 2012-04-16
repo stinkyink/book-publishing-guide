@@ -118,6 +118,7 @@ footer {
  display: block;
  clear: both;
  margin: 0 auto; 
+ max-width: 100%;
 }
 
 a[rel=external] {

@@ -274,7 +274,7 @@ how to go about the physical steps of printing and binding your own book.
 
 ####Print-on-demand
 
-<img src="img/printondemand.jpg" class="align-center" />
+<img src="/img/printondemand.jpg" class="align-center" />
 
 If the idea of getting involved in the glue and paper side of your book really
 doesn’t appeal to you then your best bet is a print-on-demand service. The

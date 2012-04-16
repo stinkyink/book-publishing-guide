@@ -16,7 +16,7 @@ industry-is-growing-with-e-books-up-over-1000/). The graph below shows the
 revenue growth in the US alone (if you don’t like graphs, let me assure you
 it’s impressive).
 
-<img src="img/ebookrevenue.jpg" class="align-center" />
+<img src="/img/ebookrevenue.jpg" class="align-center" />
 
 Image courtesy of [International Digital Publishing Forum](http://idpf.org
 /about-us/industry-statistics)
@@ -197,7 +197,7 @@ to produce their own volume, as you’ll need an eBook in multiple formats.
 
 ####To give you an idea of how convoluted the eBook format world is...
 
-<img src="img/ebookformats.jpg" class="align-center" />
+<img src="/img/ebookformats.jpg" class="align-center" />
 
 Figures courtesy of [manybooks.net](http://www.manybooks.net)
 
@@ -277,39 +277,39 @@ yourself on others, but start with these recommended sites..
 
 * ####[Amazon](https://kdp.amazon.com/self-publishing/signin)
 
-Expected return per sale: 70%
+    Expected return per sale: 70%
 
-Check out [CreateSpace](https://www.createspace.com/), a service provided by
-Amazon to help advise prospective writers on how to publish for them.
+    Check out [CreateSpace](https://www.createspace.com/), a service provided by
+    Amazon to help advise prospective writers on how to publish for them.
 
 * ####[Apple iBookstore](https://itunesconnect.apple.com/WebObjects/iTunesConnect.woa/wa/bookSignup)
 
-Expected return per sale: 70%
+  Expected return per sale: 70%
 
 * ####[Lulu](http://www.lulu.com/publish/ebooks/)
 
-Expected return per sale: 56%
+  Expected return per sale: 56%
 
 * ####[Clickbank](http://www.clickbank.com/sell_products.html)
 
-Expected return per sale: Differs per price.
+  Expected return per sale: Differs per price.
 
-Clickbank makes 7.5% per transaction plus $1. You will earn whatever’s left
-after this amount, minus whatever you choose to give to any affiliates set up
-with Clickbank.
+  Clickbank makes 7.5% per transaction plus $1. You will earn whatever’s left
+  after this amount, minus whatever you choose to give to any affiliates set up
+  with Clickbank.
 
 * ####[Barnes and Noble](http://pubit.barnesandnoble.com/pubit_app/bn?t=pi_reg_home)
 
-Expected return per sale: 65% on books between $2.99 and $9.99. 40% on all
-other book prices.
+  Expected return per sale: 65% on books between $2.99 and $9.99. 40% on all
+  other book prices.
 
 * ####[FetchApp](http://www.fetchapp.com/)
 
-If you are a bit techy, and fancy keeping the biggest chunk of the profits for
-yourself, you can take out the middleman and sell directly from your own
-website. Set up your own [Shopify](http://Shopify.com) website, use the
-FetchApp plugin, and they’ll automatically email your customers a download
-link when they buy your book.
+    If you are a bit techy, and fancy keeping the biggest chunk of the profits for
+    yourself, you can take out the middleman and sell directly from your own
+    website. Set up your own [Shopify](http://Shopify.com) website, use the
+    FetchApp plugin, and they’ll automatically email your customers a download
+    link when they buy your book.
 
 That should be everything you need to get your best-seller launched and on to
 people’s e-readers in no time at all.
@@ -365,29 +365,29 @@ to treat possible customers.
 
 * ####[Lulu](http://www.lulu.com/uk/publish/ebooks/?cid=nav_ebks)
 
-This helpful American company has a good website. Apple retains 30% of all
-revenue from sales through Lulu. The publisher (that’s you) receives 80% of
-the remaining 70% of revenue and Lulu receives 20%. Or you can pay Lulu a one-
-time fee and you won’t pay them any additional commissions, which might be
-worthwhile.
+  This helpful American company has a good website. Apple retains 30% of all
+  revenue from sales through Lulu. The publisher (that’s you) receives 80% of
+  the remaining 70% of revenue and Lulu receives 20%. Or you can pay Lulu a one-
+  time fee and you won’t pay them any additional commissions, which might be
+  worthwhile.
 
 * ####[iUniverse](http://www.iuniverse.com/)
 
-A fantastic digital publishing website that has tips and tricks for nearly
-everything you need to know. With marketing guides for self-publishers, an
-active and helpful community, plus an incredibly helpful “Expert Advice”
-section, iUniverse is a great resource even if you don’t publish through them.
+    A fantastic digital publishing website that has tips and tricks for nearly
+    everything you need to know. With marketing guides for self-publishers, an
+    active and helpful community, plus an incredibly helpful “Expert Advice”
+    section, iUniverse is a great resource even if you don’t publish through them.
 
 * ####[AuthorHouse](http://www.authorhouse.com/default.aspx)
 
-Another helpful website with a comprehensive resource section, community and
-clear pricing structure.
+  Another helpful website with a comprehensive resource section, community and
+  clear pricing structure.
 
 * ####[Writer’s Digest](http://www.writersdigest.com/)
 
-This website is dedicated to pointing you in the right direction if you’re
-looking for publishing or writing assistance. With recommended companies and
-educational materials, it’s definitely worth a look.
+  This website is dedicated to pointing you in the right direction if you’re
+  looking for publishing or writing assistance. With recommended companies and
+  educational materials, it’s definitely worth a look.
 
 ### Tips for selecting your digital publisher
 

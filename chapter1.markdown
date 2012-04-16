@@ -107,8 +107,8 @@ will give you everything you need to know!
 Three cheers for copyright, it’s free! Copyright needs to be considered in two
 forms:
 
-  1. when can you breach others’ copyright
-  2. how to deal with people violating your copyright. 
+1. when can you breach others’ copyright
+2. how to deal with people violating your copyright. 
 
 ### Avoiding breaching others’ copyright
 
@@ -161,7 +161,7 @@ limiting the potential occurrences:
 
 ### Does it matter?
 
-<img src="img/pirate.png" class="align-right" />
+<img src="/img/pirate.png" class="align-right" />
 File sharing in small numbers is not too dissimilar to one
 person buying your book then passing it on when they’re finished. Ultimately
 it still generates word of mouth and possible reviews, and not many authors
@@ -269,13 +269,13 @@ ISBN for under £100 quite easily from many different publishing websites.
 
 * ####[Myidentifiers.com](https://www.myidentifiers.com/isbn/main)
 
-Though it’s expensive for a single ISBN ($125), we’ve shown you that in all
-likelihood you’re going to need more than one! This website has a fantastic
-offer of 10 ISBNs for $250, making it the perfect choice for ISBN purchasing.
+  Though it’s expensive for a single ISBN ($125), we’ve shown you that in all
+  likelihood you’re going to need more than one! This website has a fantastic
+  offer of 10 ISBNs for $250, making it the perfect choice for ISBN purchasing.
 
 ## Creating a barcode for your book
 
-<img src="img/barcode.png" class="align-right" />
+<img src="/img/barcode.png" class="align-right" />
 The barcodes on the back of books are actually just an
 ISBN in scannable form. These will again be supplied by any publisher you sign
 with, or by the vast majority of digital publishers if you go down the
