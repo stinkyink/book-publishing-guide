@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Chapter 3
+title: Chapter 3 - Producing your own physical book
 ---
 
 # 3 - Producing your own physical book

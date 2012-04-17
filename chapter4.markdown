@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Chapter 4
+title: Chapter 4 - Marketing Your Book
 ---
 
 # 4 - Marketing

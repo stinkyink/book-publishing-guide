@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Chapter 2
+title: Chapter 2 - Publishing eBooks
 ---
 
 # 2 - eBooks

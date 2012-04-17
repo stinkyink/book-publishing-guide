@@ -1,9 +1,11 @@
 ---
 layout: default
-title: Introduction
+title: The Stinkyink Guide to Self Publishing Your Book
 ---
 
 REMOVE NOFOLLOW/NOINDEX ROBOTS META
+
+# Introduction
 
 It used to be that getting a book to market was incredibly difficult. You
 either went through a publisher (good luck!), or printed it yourself (not

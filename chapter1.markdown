@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Chapter 1
+title: Chapter 1 - How to prepare a book for publishing
 ---
 
 # 1 - How to prepare a book for publishing
