@@ -12,6 +12,8 @@ Before you look at producing your own physical book, you’ll need to have the
 basics in place. If you’ve not already, read chapter 1 and check out how to
 prepare your own book (link to chapter 1).
 
+<a name="chapter3_1" />
+
 ## Chapter 3:1 - How to approach a publisher
 
 Publishers traditionally deal with the physical production of your books.
@@ -204,6 +206,8 @@ touch and we’ll both sort your publishing question, and get the guide updated.
 If you’re not interested in other methods of publication and are ready to go,
 check out our tips on preparing your book for publication in Chapter 1, and
 marketing your book in Chapter 4.
+
+<a name="chapter3_2" />
 
 ## Chapter 3:2 - How to publish your own book
 
