@@ -26,13 +26,11 @@ there are numerous advantages to publishing your own eBook over traditional
 methods, which, amazingly, is forcing established publishers to change their
 attitude to authors or risk being frozen out.
 
-<a name="chapter2_1" />
-
-## 2:1 - Pros and Cons of Publishing an eBook
+## <a name="chapter2_1">2:1 - Pros and Cons of Publishing an eBook</a>
 
 ### Advantages
 
-####Instant revisions
+#### Instant revisions
 
 Once you publish a hard copy book, any updates or revisions you want to make
 will need to be via a new edition. eBooks have no such limitation as any
@@ -45,7 +43,7 @@ If you’re all about the profits, you can choose to charge for an update to
 your eBook. This allows you to profit from any work which will naturally be
 expanded upon, for example an educational textbook.
 
-####Higher profit margins
+#### Higher profit margins
 
 At time of writing, the returns you can expect to enjoy from your eBook sales
 via the top retailers are as follows:
@@ -125,9 +123,7 @@ have an e-reader or similar device (such as an iPad), an eBook won’t be of
 much use or interest. Unless they’re a fan of reading on a PC, but we don’t
 know many people that consume books that way!
 
-<a name="chapter2_2" />
-
-## 2:2 - Publishing your own eBook
+## <a name="chapter2_2">2:2 - Publishing your own eBook</a>
 
 Regardless of how you choose to pursue your own book, you’ll need to have the
 basics in place, which were covered in Chapter 1. (link to chapter 1).
@@ -323,9 +319,7 @@ sections on the websites we’ve recommended, send an email to [info@stinkyink.c
 om](mailto:info@stinkyink.com?subject=book+publishing+guide+question), or post
 a comment and we’ll do our best to help.
 
-<a name="chapter2_3" />
-
-## 2:3 - Using an Assisted Publisher
+## <a name="chapter2_3">2:3 - Using an Assisted Publisher</a>
 
 A digital publisher is one where all of the major considerations, such as
 cover design, proofreading, etc. are done for you in the same way a

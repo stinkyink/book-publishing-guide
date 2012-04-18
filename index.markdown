@@ -3,8 +3,6 @@ layout: default
 title: The Stinkyink Guide to Self Publishing Your Book
 ---
 
-REMOVE NOFOLLOW/NOINDEX ROBOTS META
-
 # Introduction
 
 It used to be that getting a book to market was incredibly difficult. You
@@ -21,6 +19,8 @@ do it, which is where this guide comes in. You’ll find all the information you
 need to help write, publish and market your very own publication, whether you
 pursue the revolutionary eBook format, or go down the well trodden path of
 physical publishing.
+
+{% include book.html %}
 
 ## In this guide you will find chapters on...
 
