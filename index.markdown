@@ -5,7 +5,7 @@ nextpath: /chapter1/
 nextlabel: Chapter 1
 ---
 
-# Introduction
+# What to Expect From This Guide
 
 It used to be that getting a book to market was incredibly difficult. You
 either went through a publisher (good luck!), or printed it yourself (not

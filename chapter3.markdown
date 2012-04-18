@@ -8,7 +8,7 @@ prevpath: /chapter2/
 prevlabel: Chapter 2
 ---
 
-# 3 - Producing your own physical book
+# Producing your own physical book
 
 There’s something wonderfully nostalgic about the thought of a traditional
 book, and the hard copy market is not dead, far from it!

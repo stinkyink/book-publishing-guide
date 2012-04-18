@@ -8,7 +8,7 @@ nextpath: /chapter2/
 nextlabel: Chapter 2
 ---
 
-# 1 - How to prepare a book for publishing
+# Preparing Your Book for Publication
 
 So, you’ve got your book idea and you’re looking to make things happen. Unless
 you’re gifted at writing flawless prose, your book is going to need some

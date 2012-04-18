@@ -6,7 +6,7 @@ nextpath: /prologue/
 nextlabel: Prologue
 ---
 
-# 4 - Marketing
+# How to Market Your Book
 
 Regardless of how you choose to pursue your own book, you’ll need to have the
 basics in place. If you’ve not already, pop to chapter 1 and check out how to

@@ -8,7 +8,7 @@ prevpath: /chapter1/
 prevlabel: Chapter 1
 ---
 
-# 2 - eBooks
+# Publishing an eBook
 
 Is an eBook right for you? Digital publishing in the form of an eBook is
 popular, but it may not necessarily be the best route for you. This section
