@@ -1,6 +1,11 @@
 ---
 layout: default
+id: chapter3
 title: Chapter 3 - Producing your own physical book
+nextpath: /chapter4/
+nextlabel: Chapter 4
+prevpath: /chapter2/
+prevlabel: Chapter 2
 ---
 
 # 3 - Producing your own physical book
@@ -13,7 +18,7 @@ basics in place. If you’ve not already, read chapter 1 and check out how to
 prepare your own book (link to chapter 1).
 
 
-## <a name="chapter3_1">Chapter 3:1 - How to approach a publisher</a>
+## <a name="c3_1">Chapter 3:1 - How to approach a publisher</a>
 
 Publishers traditionally deal with the physical production of your books.
 
@@ -44,7 +49,7 @@ Unless you’re an established, successful author, this route is going to be
 very difficult. That doesn’t mean it’s not worth doing though, so we’ve listed
 everything you need below to give you the best chance of success!
 
-### Step 1 - You’re going to need an agent
+### <a name="c3_2">Step 1 - You’re going to need an agent</a>
 
 If you want to maximise your chances of being accepted by a publisher, the
 first step is to find an agent. Not many people realise but many of the major
@@ -206,7 +211,7 @@ If you’re not interested in other methods of publication and are ready to go,
 check out our tips on preparing your book for publication in Chapter 1, and
 marketing your book in Chapter 4.
 
-## <a name="chapter3_2">Chapter 3:2 - How to publish your own book</a>
+## <a name="c3_3">Chapter 3:2 - How to publish your own book</a>
 
 Regardless of how you choose to pursue your own book, you’ll need to have the
 basics in place. If you’ve not already done so, pop to chapter 1 and check out
@@ -253,7 +258,7 @@ publish experience and research in limited volumes.
 
 ### So what are your options for low volume, hard copy printing?
 
-####Self printing / binding
+#### <a name="c3_3_1">Self printing / binding</a>
 
 Making your own hard copy is surprisingly cheap in monetary terms, the largest
 component of the costs being the postage. The true cost however is in time,
@@ -273,7 +278,7 @@ guide-to-binding-your-own-paperback-books-at-homefast/) and
 [videos](http://www.youtube.com/watch?v=oBSUHbyf7Ss) offering you advice on
 how to go about the physical steps of printing and binding your own book.
 
-####Print-on-demand
+#### <a name="c3_1_2">Print-on-demand</a>
 
 <img src="/img/printondemand.jpg" class="align-center" />
 

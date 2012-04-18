@@ -1,6 +1,11 @@
 ---
 layout: default
+id: chapter1
 title: Chapter 1 - How to prepare a book for publishing
+prevpath: /
+prevlabel: Introduction
+nextpath: /chapter2/
+nextlabel: Chapter 2
 ---
 
 # 1 - How to prepare a book for publishing
@@ -14,7 +19,7 @@ the publishing and book reviews fields. It doesn’t guarantee success, but
 following these pointers is a first step in getting your idea into the hands
 of readers, whether it’s via eBook or hard copy.
 
-## Proofreading and copy editing
+## <a name="c1_1">Proofreading and copy editing</a>
 
 It’s incredibly difficult to proofread your own work. You’ll subconsciously
 remember how the sentences end, where the story is going, and won’t notice the
@@ -71,7 +76,7 @@ information](http://www.proofers.co.uk/pricing.html), [turnaround
 time](http://www.proofers.co.uk/pricing.html) and each stage of the editing
 process.
 
-## Tax tips for writers
+## <a name="c1_2">Tax tips for writers</a>
 
 No one enjoys talking about taxes, but it’s a fairly crucial part of the
 publishing process, both for those looking for a career or those simply using
@@ -82,7 +87,7 @@ tax deductible?” There’s a [great little guide
 here](http://www.scribendi.com/advice/tax_tips_for_writers.en.html) which
 should point you in the right direction for your tax considerations.
 
-## Avoiding plagiarism
+## <a name="c1_3">Avoiding plagiarism</a>
 
 Even novels can plagiarise, so it’s important to keep a clear record of
 everything you do related to your book. For a work of fiction, note down any
@@ -102,7 +107,7 @@ A [comprehensive guide to all kinds of
 referencing](http://www.proofers.co.uk/pricing.html) can be found here which
 will give you everything you need to know!
 
-## Copyright
+## <a name="c1_4">Copyright</a>
 
 Three cheers for copyright, it’s free! Copyright needs to be considered in two
 forms:
@@ -212,7 +217,7 @@ property (which as a potential eBook author you ought to be) the
 
 **Please note:** We in no way endorse illegal file sharing, but there are certain ‘market benefits’ to distributing your work for free.
 
-## DRM
+## <a name="c1_5">DRM</a>
 
 Digital Rights Management (DRM) is a technology that helps you limit the use
 of your digital contents once it has been purchased, and is an important
@@ -233,7 +238,7 @@ the different formats of eBooks, check out these two helpful posts:
 * [The Official Library Site for Digital Rights Management](http://www.drm.uk.com/)
 * [Wikipedias DRM information for eBooks](http://en.wikipedia.org/wiki/Digital_rights_management#E-books)
 
-## Purchasing an ISBN
+## <a name="c1_6">Purchasing an ISBN</a>
 
 Standing for International Standard Book Number, an ISBN is a unique
 identifier for every book that is sold. ISBNs are crucial if you plan to make
@@ -273,7 +278,7 @@ ISBN for under £100 quite easily from many different publishing websites.
   likelihood you’re going to need more than one! This website has a fantastic
   offer of 10 ISBNs for $250, making it the perfect choice for ISBN purchasing.
 
-## Creating a barcode for your book
+## <a name="c1_7">Creating a barcode for your book</a>
 
 <img src="/img/barcode.png" class="align-right" />
 The barcodes on the back of books are actually just an
@@ -291,7 +296,7 @@ Once you register, you’ll be taken to a products page. You should see the
 third heading says ‘Books’ and the top option is the barcode you want,
 ‘Bookland EAN’.
 
-## Writing a good bio
+## <a name="c1_8">Writing a good bio</a>
 
 An author biography is your chance to get the reader to open your book and
 find out more details. A bio done badly can be a book-killer; not many readers

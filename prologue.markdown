@@ -1,6 +1,9 @@
 ---
 layout: default
+id: prologue
 title: Prologue
+prevpath: /chapter4/
+prevlabel: Chapter 4
 ---
 
 # We wish you the best of luck

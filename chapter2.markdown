@@ -1,6 +1,11 @@
 ---
 layout: default
+id: chapter2
 title: Chapter 2 - Publishing eBooks
+nextpath: /chapter3/
+nextlabel: Chapter 3
+prevpath: /chapter1/
+prevlabel: Chapter 1
 ---
 
 # 2 - eBooks
@@ -26,7 +31,7 @@ there are numerous advantages to publishing your own eBook over traditional
 methods, which, amazingly, is forcing established publishers to change their
 attitude to authors or risk being frozen out.
 
-## <a name="chapter2_1">2:1 - Pros and Cons of Publishing an eBook</a>
+## <a name="c2_1">2:1 - Pros and Cons of Publishing an eBook</a>
 
 ### Advantages
 
@@ -123,7 +128,7 @@ have an e-reader or similar device (such as an iPad), an eBook won’t be of
 much use or interest. Unless they’re a fan of reading on a PC, but we don’t
 know many people that consume books that way!
 
-## <a name="chapter2_2">2:2 - Publishing your own eBook</a>
+## <a name="c2_2">2:2 - Publishing your own eBook</a>
 
 Regardless of how you choose to pursue your own book, you’ll need to have the
 basics in place, which were covered in Chapter 1. (link to chapter 1).
@@ -137,7 +142,7 @@ If you have access to Twitter, a great place to start is following the hashtag
 [#ePrdctn](https://twitter.com/#!/search/%23eprdctn), which is a dedicated
 topic discussing how to publish an eBook.
 
-### The cover design
+### <a name="c2_2_1">The cover design</a>
 
 Don’t underestimate the value of a book cover, especially in the world of
 eBooks. Unless potential readers land directly on your dedicated web page,
@@ -189,7 +194,7 @@ books, or does he/she speak fluent English.
 * [eLance](http://www.elance.com/)
 * [PeoplePerHour](http://www.peopleperhour.com/)
 
-### eBook file formats
+### <a name="c2_2_2">eBook file formats</a>
 
 eBooks don’t just come in one file format, meaning certain eBooks can’t be
 read on different devices. This can be pretty frustrating for anyone looking
@@ -265,7 +270,7 @@ Guide/ta-p/109443):
   convert eBook formats. This software is not only a converter but it also
   serves as a great library tool for archiving your own collections of eBooks.
 
-### Where to publish an eBook
+### <a name="c2_2_3">Where to publish an eBook</a>
 
 Now you’ve got your nice shiny eBook in all of its glorious formats, it’s time
 to get it onto those digital shelves. There are countless eBook stores on the
@@ -319,7 +324,7 @@ sections on the websites we’ve recommended, send an email to [info@stinkyink.c
 om](mailto:info@stinkyink.com?subject=book+publishing+guide+question), or post
 a comment and we’ll do our best to help.
 
-## <a name="chapter2_3">2:3 - Using an Assisted Publisher</a>
+## <a name="c2_3">2:3 - Using an Assisted Publisher</a>
 
 A digital publisher is one where all of the major considerations, such as
 cover design, proofreading, etc. are done for you in the same way a
@@ -349,7 +354,7 @@ something to be wary of.
 Due to this, we would always recommend keeping control of your eBook as far as
 possible, and only bringing in assisted publishing if absolutely necessary.
 
-### How do I go down the assisted self publishing route?
+### <a name="c2_3_1">How do I go down the assisted self publishing route?</a>
 
 Before you go any further, have you read chapter 1 on how to prepare your own
 book (link to chapter 1)?
@@ -389,7 +394,7 @@ to treat possible customers.
   looking for publishing or writing assistance. With recommended companies and
   educational materials, it’s definitely worth a look.
 
-### Tips for selecting your digital publisher
+### <a name="c2_3_2">Tips for selecting your digital publisher</a>
 
 Don’t forget to try and grab a bargain when you’ve decided on your publisher.
 They frequently run special offers, and even if one’s expired it’s always

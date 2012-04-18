@@ -1,6 +1,9 @@
 ---
 layout: default
+id: chapter4
 title: Chapter 4 - Marketing Your Book
+nextpath: /prologue/
+nextlabel: Prologue
 ---
 
 # 4 - Marketing
@@ -35,7 +38,7 @@ tp://www.authorhouse.com/AuthorResources/Marketing/Plan/Target.aspx) to help
 identify and understand your target audience before the marketing process even
 begins.
 
-## Marketing your book online...
+## <a name="c4_1">Marketing your book online...</a>
 
 ### Book marketing tip 1: Set up your own author’s website
 
@@ -282,7 +285,7 @@ as [Google Adwords](http://www.google.co.uk/intl/en/adwords/jumpstart/uksmb-11
 and [Google Adsense](http://www.google.co.uk/intl/en_GB/ads/publisher/#subid=ww-en-et-adsense-pubsollink) or look for recommended companies to do it for
 you.
 
-### Marketing your book in the real world
+## <a name="c4_2">Marketing your book in the real world</a>
 
 It's important to remember that, while the internet provides important
 outreach opportunities, sometimes going out and meeting real people will
@@ -293,7 +296,7 @@ world” marketing. Remember these are just a few ideas; there are hundreds of
 opportunities that will be specific to your combination of subject matter,
 location and the nature of your publication.
 
-## Book marketing tip 7: Traditional advertising
+### Book marketing tip 7: Traditional advertising
 
 Unless you’re signing with a major publisher we would suggest avoiding
 traditional advertising. Out of your own pocket it will be exorbitantly
@@ -302,7 +305,7 @@ expensive with likely minimal returns.
 Your time (and money) will be far better spent advertising YOURSELF in the
 following ways, or investing in the online methods we’ve previously discussed.
 
-## Book Marketing Tip 8: Get around
+### Book Marketing Tip 8: Get around
 
 Research local events then find and attend wherever possible any reading
 groups or book clubs. If you’re confident enough in the quality of your book
@@ -319,7 +322,7 @@ assist getting you into the major outlets, but smaller, dedicated book stores
 and websites are easy enough to contact and there’s no shame in pitching
 yourself.
 
-## Book marketing tip 9: Nothing is ever enough
+### Book marketing tip 9: Nothing is ever enough
 
 Even with everything in this guide, you’re going to need more! As a wise
 business man once said, you have to keep running to stand still in this fast
