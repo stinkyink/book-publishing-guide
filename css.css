@@ -24,6 +24,8 @@ header h1 {
  font-size: 2.2em; 
  line-height: 0.8em;
  text-shadow: -1px 0 1px rgba(0,0,0,0.8);
+ -moz-text-shadow: -1px 0 1px rgba(0,0,0,0.8);
+ -webkit-text-shadow: -1px 0 1px rgba(0,0,0,0.8);
 }
 
 header h1 a {
@@ -56,7 +58,6 @@ h2 a, h3 a, h4 a {
  width: 1200px;
  margin: 10px auto 0 auto; 
  padding: 2% 0;
- box-shadow: 0 0 10px rbga(0,0,0,0.);
 }
 
 #the_content {
@@ -69,7 +70,11 @@ h2 a, h3 a, h4 a {
  background-color: #fff; 
  margin-bottom: 45px;
  box-shadow: 0 10px 10px rgba(0,0,0,0.5);
+ -moz-box-shadow: 0 10px 10px rgba(0,0,0,0.5);
+ -webkit-box-shadow: 0 10px 10px rgba(0,0,0,0.5);
  border-radius: 5px;
+ -moz-border-radius: 5px;
+ -webkit-border-radius: 5px;
 }
 
 .chapter aside {
@@ -165,7 +170,11 @@ a[rel=external] {
 #contents div {
  background-color: #fff;
  border-radius: 5px;
+ -moz-border-radius: 5px;
+ -webkit-border-radius: 5px;
  box-shadow: 0 3px 5px rgba(0,0,0,0.3); 
+ -moz-box-shadow: 0 3px 5px rgba(0,0,0,0.3); 
+ -webkit-box-shadow: 0 3px 5px rgba(0,0,0,0.3); 
  padding: 20px 20px 20px 20px;
  margin: 0 0 20px 0;
  border: 1px solid #266595;
@@ -245,10 +254,17 @@ a[rel=external] {
  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#94d11b', endColorstr='#57a300',GradientType=0 ); /* IE6-8 */
 
  border-radius: 10px;
+ -moz-border-radius: 10px;
+ -webkit-border-radius: 10px;
+ 
  margin: 10px 0 10px 0; 
  box-shadow: 0 3px 5px rgba(0,0,0,0.3);
+ -moz-box-shadow: 0 3px 5px rgba(0,0,0,0.3);
+ -webkit-box-shadow: 0 3px 5px rgba(0,0,0,0.3);
  line-height: 1em;
  text-shadow: 1px 1px 1px rgba(0,0,0,0.2);
+ -moz-text-shadow: 1px 1px 1px rgba(0,0,0,0.2);
+ -webkit-text-shadow: 1px 1px 1px rgba(0,0,0,0.2);
  text-decoration: none;
 }
 
