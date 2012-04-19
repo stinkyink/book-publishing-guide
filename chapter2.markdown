@@ -21,7 +21,7 @@ industry-is-growing-with-e-books-up-over-1000/). The graph below shows the
 revenue growth in the US alone (if you don’t like graphs, let me assure you
 it’s impressive).
 
-<img src="/img/ebookrevenue.jpg" class="align-center" />
+<img src="/book-publishing-guide/img/ebookrevenue.jpg" class="align-center" />
 
 Image courtesy of [International Digital Publishing Forum](http://idpf.org
 /about-us/industry-statistics)
@@ -202,7 +202,7 @@ to produce their own volume, as you’ll need an eBook in multiple formats.
 
 ####To give you an idea of how convoluted the eBook format world is...
 
-<img src="/img/ebookformats.jpg" class="align-center" />
+<img src="/book-publishing-guide/img/ebookformats.jpg" class="align-center" />
 
 Figures courtesy of [manybooks.net](http://www.manybooks.net)
 

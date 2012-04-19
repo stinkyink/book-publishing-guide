@@ -47,7 +47,7 @@ publishers actively look for, and encourage, authors to have their own online
 presence. A website helps people find out about you, what you’ve written, what
 inspires you and anything else their heart desires.
 
-<img src="/img/wordpress.png" class="align-right" />
+<img src="/book-publishing-guide/img/wordpress.png" class="align-right" />
 If you’re a technophobe we’d definitely advise using a
 [blogging solution called WordPress](http://wordpress.com/), which has made
 creating your own blog a cinch. They hold your hand at every stage of the
@@ -134,7 +134,7 @@ email service providers out there that are free, up to a certain level of
 subscribers, meaning you can start growing your list without any cash
 investment.
 
-<img src="/img/mailchimp.png" class="align-left" />
+<img src="/book-publishing-guide/img/mailchimp.png" class="align-left" />
 Look around for email service providers that you are
 comfortable using. If you trust our recommendations, we suggest you give
 [Mailchimp](http://mailchimp.com) a try. It’s free up to 2,000 subscribers in
@@ -148,7 +148,7 @@ options. Overall, a fantastic choice for starting your email activities.
 The world has become social, and having an online presence that talks,
 comments and is readily approachable is a great feature.
 
-<img src="/img/twitter.png" class="align-right" />
+<img src="/book-publishing-guide/img/twitter.png" class="align-right" />
 ### Twitter
 
 We recommend at the very least having a Twitter account
@@ -181,7 +181,7 @@ With the introduction of [Facebook
 timeline](http://www.facebook.com/about/timeline), your entire author's life
 and publishing history and success stories are readily available.
 
-<img class="align-right" src="img/fbstar.jpg" >
+<img class="align-right" src="/book-publishing-guide/img/fbstar.jpg" >
 
 An author's Facebook page is also a great way to push new releases, with the
 ability to “star” new events to make them the full width of your page and act

@@ -166,7 +166,7 @@ limiting the potential occurrences:
 
 ### Does it matter?
 
-<img src="/img/pirate.png" class="align-right" />
+<img src="/book-publishing-guide/img/pirate.png" class="align-right" />
 File sharing in small numbers is not too dissimilar to one
 person buying your book then passing it on when they’re finished. Ultimately
 it still generates word of mouth and possible reviews, and not many authors
@@ -280,7 +280,7 @@ ISBN for under £100 quite easily from many different publishing websites.
 
 ## <a name="c1_7">Creating a barcode for your book</a>
 
-<img src="/img/barcode.png" class="align-right" />
+<img src="/book-publishing-guide/img/barcode.png" class="align-right" />
 The barcodes on the back of books are actually just an
 ISBN in scannable form. These will again be supplied by any publisher you sign
 with, or by the vast majority of digital publishers if you go down the

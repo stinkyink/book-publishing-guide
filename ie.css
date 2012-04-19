@@ -1,0 +1,14 @@
+.button {
+ border: none;
+ background: green !important; 
+}
+
+#book .bottom {
+ display: block;
+ position: absolute;
+ bottom: -50px;
+ left: -30px;
+ width: 690px;
+ height: 35px;
+ background: transparent url('img/book_bottom.jpg') no-repeat scroll bottom center;
+}

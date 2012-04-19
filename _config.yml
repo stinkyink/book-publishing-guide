@@ -4,3 +4,5 @@ auto:       true
 
 exclude:
     - README.md
+baseurl:  /book-publishing-guide
+  

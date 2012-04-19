@@ -1,3 +1,7 @@
+header, footer, nav, section, aside, article {
+	display: block;
+}
+
 html {
  padding: 0;
  margin: 0; 
@@ -29,7 +33,7 @@ header h1 {
 }
 
 header h1 a {
-  color: inherit;
+  color: #fff;
   text-decoration: none;
 }
 
@@ -48,6 +52,10 @@ footer {
 
 a {
   color: #266595;
+}
+
+a img {
+ border: none; 
 }
 
 h2 a, h3 a, h4 a {
@@ -72,9 +80,9 @@ h2 a, h3 a, h4 a {
  box-shadow: 0 10px 10px rgba(0,0,0,0.5);
  -moz-box-shadow: 0 10px 10px rgba(0,0,0,0.5);
  -webkit-box-shadow: 0 10px 10px rgba(0,0,0,0.5);
- border-radius: 5px;
  -moz-border-radius: 5px;
  -webkit-border-radius: 5px;
+ border-radius: 5px;
 }
 
 .chapter aside {
@@ -145,7 +153,7 @@ h2 a, h3 a, h4 a {
 
 a[rel=external] {
  padding-right: 13px;
- background: transparent url('external.png') no-repeat scroll right center;
+ background: transparent url('img/external.png') no-repeat scroll right center;
 }
 
 
@@ -169,9 +177,9 @@ a[rel=external] {
 
 #contents div {
  background-color: #fff;
- border-radius: 5px;
  -moz-border-radius: 5px;
  -webkit-border-radius: 5px;
+ border-radius: 5px;
  box-shadow: 0 3px 5px rgba(0,0,0,0.3); 
  -moz-box-shadow: 0 3px 5px rgba(0,0,0,0.3); 
  -webkit-box-shadow: 0 3px 5px rgba(0,0,0,0.3); 
@@ -191,12 +199,14 @@ a[rel=external] {
 #contents ul.parent {
  padding: 0;
  margin: 0; 
+ list-style: none;
 }
 
 #contents ul.parent ul {
   padding: 0 0 0 10px;
   margin: 0 0 0 0;
   display: none;
+  list-style: none;
 }
 
 #contents ul.parent ul a {
@@ -253,10 +263,10 @@ a[rel=external] {
  background: linear-gradient(top,  #94d11b 0%,#57a300 100%); /* W3C */
  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#94d11b', endColorstr='#57a300',GradientType=0 ); /* IE6-8 */
 
- border-radius: 10px;
+ 
  -moz-border-radius: 10px;
  -webkit-border-radius: 10px;
- 
+ border-radius: 10px;
  margin: 10px 0 10px 0; 
  box-shadow: 0 3px 5px rgba(0,0,0,0.3);
  -moz-box-shadow: 0 3px 5px rgba(0,0,0,0.3);
@@ -360,7 +370,7 @@ blockquote:after {
 #book {
   width: 690px;
   margin: 20px auto;
-  background: #fff url('/img/book_top.jpg') no-repeat scroll top center;
+  background: #fff url('img/book_top.jpg') no-repeat scroll top center;
   position: relative;
   padding: 35px 0;
   font-family: Georgia, Times, 'Times New Roman', Serif;
@@ -388,7 +398,7 @@ blockquote:after {
  left: 0;
  width: 690px;
  height: 45px;
- background: transparent url('/img/book_bottom.jpg') no-repeat scroll bottom center;
+ background: transparent url('img/book_bottom.jpg') no-repeat scroll bottom center;
 }
   
 #book div {
