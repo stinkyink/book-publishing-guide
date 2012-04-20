@@ -450,3 +450,21 @@ blockquote:after {
   padding: 0 0 0 0;
   margin: 0 0 5px 10px;
 }
+
+
+
+.advantages {
+ background-color: #E4FFB9;
+ border: 1px solid #4D8852;
+ padding: 10px 10px 10px 150px;
+ margin: 0 0 20px 0;
+ border-radius: 5px; 
+}
+
+.disadvantages {
+ background-color: #FBCFD6;
+ border: 1px solid #894C4A;
+ padding: 10px 10px 10px 150px;
+ margin: 0 0 20px 0;
+ border-radius: 5px; 
+}
