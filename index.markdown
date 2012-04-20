@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Stinkyink Guide to Self Publishing Your Book
+title: The Stinkyink Guide to Publishing Your Book
 nextpath: /chapter1/
 nextlabel: Chapter 1
 ---
