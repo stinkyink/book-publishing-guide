@@ -10,6 +10,12 @@
 		<!--[if lte IE 8]>
 		  <link rel="stylesheet" href="/book-publishing-guide/ie.css" type="text/css" />
 	  <![endif]-->
+	  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+	  <script>
+	  $(function(){
+	    $("a[rel=external]").prop("target", "_blank");
+	  });
+	  </script>
 	</head>
 	<body id="{{ page.id }}">
 	  
