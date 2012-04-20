@@ -1,7 +1,7 @@
 ---
 layout: default
 id: chapter1
-title: Chapter 1 - How to prepare a book for publishing
+title: Chapter 1 - How To Prepare A Book For Publishing
 prevpath: /
 prevlabel: Introduction
 nextpath: /chapter2/
@@ -10,7 +10,7 @@ nextlabel: Chapter 2
 
 # Preparing Your Book for Publication
 
-So, you’ve got your book idea and you’re looking to make things happen. Unless
+So you’ve got your book idea and are looking to make things happen. Unless
 you’re gifted at writing flawless prose, your book is going to need some
 external care and attention, i.e. editing.
 
@@ -33,9 +33,9 @@ If you’ve got a friend or two who can write well, then ask if they will review
 your work. This can give you both a proofreading service and feedback on your
 style of writing, for free.
 
-However, for anyone seriously looking at publishing a book a proofreader or
-editor is essential to ensure you’re submitting the highest quality document
-that does your work and creativity justice. For a general idea of cost, a
+If you're seriously looking at publishing a book a proofreader or
+editor is essential to make sure you’re submitting the highest quality document
+that does your work, and creativity, justice. For a general idea of cost, a
 10,000 word short story will be looking at around £80-120, and a full novel in
 excess of 100,000 words will often start from £300.
 
@@ -78,20 +78,20 @@ process.
 
 ## <a name="c1_2">Tax tips for writers</a>
 
-No one enjoys talking about taxes, but it’s a fairly crucial part of the
-publishing process, both for those looking for a career or those simply using
+No one enjoys talking about taxes, but it’s a crucial part of the
+publishing process for both those looking for a career or those simply using
 writing as a hobby.
 
 It can be complicated to decide even the most basic things, such as “What is
 tax deductible?” There’s a [great little guide
 here](http://www.scribendi.com/advice/tax_tips_for_writers.en.html) which
-should point you in the right direction for your tax considerations.
+will point you in the right direction for your tax considerations.
 
 ## <a name="c1_3">Avoiding plagiarism</a>
 
 Even novels can plagiarise, so it’s important to keep a clear record of
 everything you do related to your book. For a work of fiction, note down any
-resources you used which you can then include in your book’s acknowledgements.
+resources you used which you can include in your book’s acknowledgements.
 Non-fiction books will need clear footnotes and endnotes of every resource,
 study or quotation that is present in your work.
 
@@ -138,21 +138,31 @@ be found here which will give you everything you need to know!
 ### Protecting your own works
 
 There’s a great [breakdown of copyright
-information](http://www.whatiscopyright.org/) here which should give you a
+information](http://www.whatiscopyright.org/) here which gives you a
 good idea of what’s acceptable, and what’s not.
 
 To quickly summarise the important points of copyrighting your work:
 
 ####Mark your work as copyrighted.
 
-The rationale being that it makes a potential infringer think that you take
+Lovely simple advice, the rationale behind this being to make a potential infringer think that you take
 the issue seriously.
+
+Copyright has three sections:
+
+1. The copyright symbol, abbreviation "Copr." or full word "Copyright"
+2. The publisher or company name
+3. The publication year of the work
+
+So, copyrighting this guide would be © Stinkyink.com 2012
 
 ####Keep evidence of your work as it develops
 
 This can be done through a number of established companies who will register
 your copyright for a small fee or by keeping notes and old drafts to show an
 “evolution” of your ideas.
+
+Little industry tricks, such as leaving a dated copy of your work at a bank or solicitor, or posting a copy of your work to yourself by special delivery and leaving it unopened can also help prove possession and/or ownership at a certain date.
 
 Ultimately, it’s far more likely you’ll experience an eBook copy of your book
 being shared illegally than a physical copy. There are [some clear steps to
@@ -164,18 +174,18 @@ aware of from the issues in the music industry with illegal downloading. This
 is far more difficult to stop, but there are some common sense approaches to
 limiting the potential occurrences:
 
-### Does it matter?
+#### Firstly, does it matter?
 
 <img src="/book-publishing-guide/img/pirate.png" class="align-right" />
 File sharing in small numbers is not too dissimilar to one
 person buying your book then passing it on when they’re finished. Ultimately
 it still generates word of mouth and possible reviews, and not many authors
-mind about that.
+mind that.
 
 In fact, many ‘pirates’ go on to write reviews and often purchase your book
 later, so a little illegal activity may turn out to be good marketing.
 
-### Is there a reason people are taking your work without paying?
+#### Is there a reason people are taking your work without paying?
 
 Taking a common sense approach to the mindset of a file sharer can actually
 highlight the root cause which can be addressed.
@@ -185,14 +195,14 @@ industry](http://www.google.com/url?q=http%3A%2F%2Ftorrentfreak.com
 %2Fbittorrent-piracy-doesnt-affect-us-box-office-returns-study-
 finds-120210%2F&sa=D&sntz=1&usg=AFQjCNE7ukXDqrhReL9QcuKReo0lCj8w_A), an
 industry that is heavily hit by illegal file sharing. This research highlights
-a tremendous correlation between films having a split release date, between
+a tremendous correlation between films having a split release date between
 the Americas and Europe, and the number of times it is illegally shared.
 
 Though not particularly relevant for eBook file sharing, it highlights how
 consideration of your target market can lead to increased gains for you and a
 limitation on illegal activity.
 
-Take a simple example of pricing. Is your book extortionate compared to
+Take a simple example of pricing. Is your book price extortionate compared to
 similar books in your area? What about availability, can your book be
 purchased from numerous vendors or is it actually difficult to get hold of?
 
@@ -208,7 +218,7 @@ copyright. Some educational institutes such as
 /copyright-quickguide/) and [Stanford](http://copyright.columbia.edu/copyright
 /copyright-in-general/copyright-quickguide/) provide excellent guides that
 cover most areas of the law. There are also some
-[charities](http://www.educause.edu/Resources/Browse/Copyright/17092) who also
+[charities](http://www.educause.edu/Resources/Browse/Copyright/17092) who
 offer insight.
 
 If you’re looking for advice and current happenings in the realms of online
@@ -252,6 +262,8 @@ An ISBN is made up of the following sections:
 * The title identifier, which is for a particular title or edition of your book
 * The final number is a "check digit", which validates the ISBN.
 
+This should leave you with an ISBN looking like 978-0-470-25312-0 (yes, that's a book on my desk).
+
 You actually need ISBNs for different formats of the same book, so in all
 likelihood you will end up needing a maximum of five ISBN numbers for a single
 book:
@@ -276,7 +288,7 @@ ISBN for under £100 quite easily from many different publishing websites.
 
   Though it’s expensive for a single ISBN ($125), we’ve shown you that in all
   likelihood you’re going to need more than one! This website has a fantastic
-  offer of 10 ISBNs for $250, making it the perfect choice for ISBN purchasing.
+  offer of ten ISBNs for $250, making it the perfect choice for ISBN purchasing.
 
 ## <a name="c1_7">Creating a barcode for your book</a>
 
