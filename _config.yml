@@ -4,5 +4,7 @@ auto:       true
 
 exclude:
     - README.md
+    - Gemfile
+    - Gemfile.lock
 baseurl:  /book-publishing-guide
   
