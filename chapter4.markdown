@@ -162,12 +162,14 @@ A couple of tags that we’d recommend following and/or getting involved with
 are <a href="https://twitter.com/#!/search/%23ePrdctn" rel="external">#ePrdctn</a> and
 <a href="https://twitter.com/#!/search/%23storycraft" rel="external">#storycraft</a>.
 
-<a href="https://twitter.com/#!/search/%23ePrdctn" rel="external">#ePrdctn</a> is a channel for all
-kinds of discussions about the processes of creating an eBook.
-<a href="https://twitter.com/#!/search/%23storycraft" rel="external">#storycraft</a> is a great place
-for fiction writers to get a bit of assistance with the forging of their
-worlds. It’s well worth scanning down the list and seeing if there’s a chat
-set up that may contain at least part of your target audience.
+<p>
+  <a href="https://twitter.com/#!/search/%23ePrdctn" rel="external">#ePrdctn</a> is a channel for all
+  kinds of discussions about the processes of creating an eBook.
+  <a href="https://twitter.com/#!/search/%23storycraft" rel="external">#storycraft</a> is a great place
+  for fiction writers to get a bit of assistance with the forging of their
+  worlds. It’s well worth scanning down the list and seeing if there’s a chat
+  set up that may contain at least part of your target audience.
+</p>
 
 ### Facebook
 
@@ -243,7 +245,7 @@ Couple this with any contacts or active social accounts you find on Twitter or
 Facebook (more of that below) and you’ll have plenty of people to get involved
 with.
 
-<a href="http://stumbleupon.com" rel="external">StumbleUpon</a> and <a href="http://technorati.com" rel="external">Technorati</a>
+Popular sites <a href="http://stumbleupon.com" rel="external">StumbleUpon</a> and <a href="http://technorati.com" rel="external">Technorati</a>
 can help you find related blogs, though they are slightly more long winded
 methods than just searching Google intelligently.
 
