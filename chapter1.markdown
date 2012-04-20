@@ -54,27 +54,36 @@ use as a benchmark.
 
 ### Recommended Proofreading and Editing Companies
 
-* ####<a href="http://www.scribendi.com/" rel="external">Scribendi.com</a>
+<div class="services">
 
-Scribendi provides professional proofreading and editing services for any
-length of book. They’ve given us permission to list a special introductory
-offer where you can get up to 1,500 words proofed free to see the quality of
-their service. <a href="https://www.scribendi.com/service/free_sample_edit_book_manuscripts" rel="external">
-We love free trials and heartily recommend giving it a go here!</a>
+  <article class="service">
+    <h4><a href="http://www.scribendi.com/" rel="external">Scribendi.com</a></h4>
+    <p>Scribendi provides professional proofreading and editing services for any
+    length of book. They’ve given us permission to list a special introductory
+    offer where you can get up to 1,500 words proofed free to see the quality of
+    their service. <a href="https://www.scribendi.com/service/free_sample_edit_book_manuscripts" rel="external">
+    We love free trials and heartily recommend giving it a go here!</a>.</p>
+    <img src="/book-publishing-guide/img/scribendi.jpg" class="shot" />
+  </article>
 
-* ####<a href="http://bubblecow.co.uk/" rel="external">Bubblecow.co.uk</a>
+  <article class="service">
+    <h4><a href="http://bubblecow.co.uk/" rel="external">Bubblecow.co.uk</a></h4>
+    <p>If you’re looking for simple pricing and upfront honesty, bubblecow is a great
+    little company. There are three clearly segmented packages so you can pick the
+    depth of editing you want, and the pricing and time of delivery are clear.</p>
+    <img src="/book-publishing-guide/img/bubblecow.jpg" class="shot" />
+  </article>
 
-If you’re looking for simple pricing and upfront honesty, bubblecow is a great
-little company. There are three clearly segmented packages so you can pick the
-depth of editing you want, and the pricing and time of delivery are clear.
+  <article class="service">
+    <h4><a href="http://www.proofers.co.uk/" rel="external">Proofers.co.uk</a></h4>
+    <p>Though it’s frustrating having to register before receiving a quotation, this
+    website is nice and clear with its <a href="http://www.proofers.co.uk/pricing.html" rel="external">pricing
+    information</a>, <a href="http://www.proofers.co.uk/pricing.html" rel="external">turnaround
+    time</a> and each stage of the editing process.</p>
+    <img src="/book-publishing-guide/img/proofers.jpg" class="shot" />
+  </article>
 
-* ####<a href="http://www.proofers.co.uk/" rel="external">Proofers.co.uk</a>
-
-Though it’s frustrating having to register before receiving a quotation, this
-website is nice and clear with its <a href="http://www.proofers.co.uk/pricing.html" rel="external">pricing
-information</a>, <a href="http://www.proofers.co.uk/pricing.html" rel="external">turnaround
-time</a> and each stage of the editing
-process.
+</div>
 
 ## <a name="c1_2">Tax Tips For Writers</a>
 

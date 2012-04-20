@@ -16,7 +16,7 @@ body {
   line-height: 1.5em; 
 }
 
-header, footer {
+header {
  background-color: #1D365E;
  padding: 10px;
  margin: 0 0 0 0;
@@ -175,7 +175,7 @@ a[rel=external] {
  color: #fff;
 }
 
-#contents div {
+#contents .box {
  background-color: #fff;
  -moz-border-radius: 5px;
  -webkit-border-radius: 5px;
@@ -186,6 +186,24 @@ a[rel=external] {
  padding: 20px 20px 20px 20px;
  margin: 0 0 20px 0;
  border: 1px solid #266595;
+}
+
+#contents .box h4 {
+ color: #333;
+ margin: 0 0 10px 0;
+ line-height: 1.2em; 
+ padding: 0 0 0 0;
+ font-size: 1.2em;
+}
+
+#contents .share {
+ text-align: center; 
+}
+
+#contents .widget {
+ display: inline-block;
+ width: 60px;
+ margin: 10px;
 }
 
 #contents h1 {
@@ -467,4 +485,126 @@ blockquote:after {
  padding: 10px 10px 10px 150px;
  margin: 0 0 20px 0;
  border-radius: 5px; 
+}
+
+
+
+
+
+
+.footer hr {
+ visibility: hidden; 
+}
+
+/* line 7, ../../app/assets/stylesheets/footer.css.scss */
+.footer {
+  background-color: #000;
+  color: #999;
+  clear: both;
+  font-size: 11px;
+  margin-top: -5px;
+  font-family: arial,helvetica,sans-serif;
+}
+
+/* line 17, ../../app/assets/stylesheets/footer.css.scss */
+#footmap a {
+  color: #999;
+  text-decoration: none;
+}
+
+#footmap {
+ position: relative;
+}
+
+#footmap .poptab {
+  content: "+ Site Map";
+  width: 100px;
+  padding: 5px 10px;
+  background-color: #000;
+  color: #999;
+  top: -35px;
+  font-weight: bold;
+  font-size: 13px;
+  right: 0;
+  position: absolute;
+  text-align: center;
+}
+
+#footmap .poptab:hover {
+  color: #fff;
+  cursor: pointer;
+}
+
+/* line 21, ../../app/assets/stylesheets/footer.css.scss */
+#footmap a:hover {
+  text-decoration: underline;
+  color: yellow;
+}
+/* line 28, ../../app/assets/stylesheets/footer.css.scss */
+#footmap div {
+  width: 238px;
+  float: left;
+}
+/* line 33, ../../app/assets/stylesheets/footer.css.scss */
+#footmap ul {
+  list-style: square;
+  padding: 0 0 0 35px;
+  line-height: 16px;
+  color: #666;
+  text-align: left;
+}
+/* line 40, ../../app/assets/stylesheets/footer.css.scss */
+#footmap h3 {
+  margin-left: 20px;
+  color: #ccc;
+  font-size: 15px;
+  font-weight: bold;
+  text-align: left;
+}
+/* line 43, ../../app/assets/stylesheets/footer.css.scss */
+#footmap h3 a {
+  color: inherit;
+}
+/* line 48, ../../app/assets/stylesheets/footer.css.scss */
+#footmap #footmap:after {
+  content: ".";
+  display: block;
+  height: 0;
+  clear: both;
+  visibility: hidden;
+}
+
+/* line 58, ../../app/assets/stylesheets/footer.css.scss */
+#copyright {
+  clear: both;
+  text-align: center;
+  padding: 10px 20px 10px 20px;
+  color: #ccc;
+  margin: 0 0 0 0;
+}
+
+#copyright a {
+ color: #fff; 
+}
+
+.footer .wrapper {
+ width: 960px;
+ margin: 0 auto; 
+}
+
+
+
+
+.service {
+ 
+ padding-left: 220px; 
+  position: relative;
+  min-height: 220px;
+}
+
+.service img {
+ position: absolute;
+ top: 0;
+ left: 0; 
+ border: 1px solid #999;
 }

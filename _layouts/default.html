@@ -14,6 +14,18 @@
 	  <script>
 	  $(function(){
 	    $("a[rel=external]").prop("target", "_blank");
+	    
+	    $("#footmap div").hide();
+      $("#footmap").prepend("<span class=\"poptab\">+ sitemap</span>");
+      $(".poptab").toggle(function(){
+        $("#footmap div").show();
+        $(".poptab").html("- sitemap");
+      }, function(){
+        $("#footmap div").hide();
+        $(".poptab").html("+ sitemap");
+      });
+      
+	    
 	  });
 	  </script>
 	</head>
@@ -68,9 +80,87 @@
 
     </div>
 
-    <footer>
-      <p>&copy; 2012 Stinkyink.com</p>
+    <footer class="footer">
+      <hr />
+    	<div id="footmap" class="wrapper">
+
+          <div class="column">
+          <h3><a href="/categories/ink-cartridges">Ink Cartridges</a></h3>
+          	<ul>
+      		    <li><a href="/hp/ink-cartridges">HP Ink Cartridges</a></li>
+      		    <li><a href="/canon/ink-cartridges">Canon Ink Cartridges</a></li>
+      		    <li><a href="/epson/ink-cartridges">Epson Ink Cartridges</a></li>
+      		    <li><a href="/lexmark/ink-cartridges">Lexmark Ink Cartridges</a></li>
+      		    <li><a href="/kodak/ink-cartridges">Kodak Ink Cartridges</a></li>      		    
+      		    <li><a href="/brother/ink-cartridges">Brother Ink Cartridges</a></li>
+      		    <li><a href="/samsung/ink-cartridges">Samsung Ink Cartridges</a></li>
+      		    <li><a href="/philips/ink-cartridges">Philips Ink Cartridges</a></li>
+      		    <li><a href="/dell/ink-cartridges">Dell Ink Cartridges</a></li>
+      		    <li><a href="/pitney-bowes/ink-cartridges">Pitney Bowes Ink Cartridges</a></li>
+            </ul>
+          </div>
+          <div class="column">
+          <h3><a href="/categories/toner-cartridges">Toner Cartridges</a></h3>
+          	<ul>
+      		    <li><a href="/hp/toner-cartridges">HP Toner Cartridges</a></li>
+      		    <li><a href="/canon/toner-cartridges">Canon Toner Cartridges</a></li>
+      		    <li><a href="/epson/toner-cartridges">Epson Toner Cartridges</a></li>
+      		    <li><a href="/lexmark/toner-cartridges">Lexmark Toner Cartridges</a></li>
+      		    <li><a href="/brother/toner-cartridges">Brother Toner Cartridges</a></li>
+      		    <li><a href="/dell/toner-cartridges">Dell Toner Cartridges</a></li>
+      		    <li><a href="/oki/toner-cartridges">Oki Toner Cartridges</a></li>
+      		    <li><a href="/xerox/toner-cartridges">Xerox Toner Cartridges</a></li>
+      		    <li><a href="/samsung/toner-cartridges">Samsung Toner Cartridges</a></li>
+      		    <li><a href="/philips/toner-cartridges">Philips Toner Cartridges</a></li>
+      		    <li><a href="/panasonic/toner-cartridges">Panasonic Toner Cartridges</a></li>
+      		    <li><a href="/konica-minolta/toner-cartridges">Konica Minolta Toner Cartridges</a></li>
+      		    <li><a href="/kyocera-mita/toner-cartridges">Kyocera Mita Toner Cartridges</a></li>
+      		    <li><a href="/ricoh/toner-cartridges">Ricoh Toner Cartridges</a></li>
+            </ul>
+          </div>
+          
+
+    		<div class="column">
+    			<h3>Manufacturers</h3>
+    			<ul> 
+    				<li><a href="/hp">HP Printer Cartridges</a></li>
+    				<li><a href="/epson">Epson Printer Cartridges</a></li>
+    				<li><a href="/canon">Canon Printer Cartridges</a></li>
+    				<li><a href="/brother">Brother Printer Cartridges</a></li>
+    				<li><a href="/lexmark">Lexmark Printer Cartridges</a></li>
+    				<li><a href="/kodak">Kodak Printer Cartridges</a></li>
+    				<li><a href="/samsung">Samsung Printer Cartridges</a></li>
+    				<li><a href="/dell">Dell Printer Cartridges</a></li>
+    				<li><a href="/oki">Oki Printer Cartridges</a></li>
+    				<li><a href="/xerox">Xerox Printer Cartridges</a></li>
+    				<li><a href="/philips">Philips Printer Cartridges</a></li>
+    				<li><a href="/ricoh">Ricoh Printer Cartridges</a></li>
+    				<li><a href="/panasonic">Panasonic Printer Cartridges</a></li>
+    				<li><a href="/konica-minolta">Konica Minolta Printer Cartridges</a></li>
+    				<li><a href="/kyocera-mita">Kyocera Mita Printer Cartridges</a></li>
+    			</ul>
+    		</div>
+    		
+    		<div class="column">
+    			<h3>Useful Information</h3>
+          <ul>
+        		<li><a href="/pages/recycling-empty-cartridges/">Recycle Ink Cartridges</a></li> 
+        		<li><a href="/pages/schools/">Ink &amp; Toner for Schools</a></li>
+    			  <li><a href="/">Printer Ink</a></li>
+    			  <li><a href="/">Printer Cartridges</a></li>
+    			  <li><a href="/">Ink</a></li>
+    			  <li><a href="/">Printer Ink Cartridges</a></li>
+    			</ul>    			
+  			</div>
+
+    	</div>
+
+    	<div id="copyright">
+    		<p>Copyright &copy; 2001-2012 <a href="http://www.stinkyinkshop.co.uk">Stinkyink.com</a></p>
+    	</div>
+
     </footer>
+
 
       <script type="text/javascript">
 
