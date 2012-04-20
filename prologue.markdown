@@ -6,7 +6,7 @@ prevpath: /chapter4/
 prevlabel: Chapter 4
 ---
 
-# We wish you the best of luck
+# We Wish You The Best Of Luck
 
 We really hope that some of the material we’ve provided here will assist you
 in writing your book, and from the whole of the
@@ -17,9 +17,9 @@ and we’ll try to include some more information. Equally if you’ve got a
 success story that we’ve been part of (even in a minor way) we’d really love
 to hear from you.
 
-In fact even if you just want to shamelessly plug your new book leave us a
-comment below or send <a href="https://twitter.com/#!/stinky_ink" rel="external">@stinky_ink</a> a
-tweet. We’ve got a few avid readers on our team who’d love to get their hands
+Leave us a
+comment below, send <a href="https://twitter.com/#!/stinky_ink" rel="external">@stinky_ink</a> a
+tweet or post on <a href="http://www.facebook.com/stinkyinkshop">our Facebook page here</a>. Even if you just want to shamelessly plug your new book, we'd love to hear from you. We’ve got a few avid readers on our team who’d love to get their hands
 on some new and exciting material and some new content on their Kindles.
 
 I’ll leave you with a rather encouraging quote from the Nobel Prize winning
