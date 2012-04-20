@@ -14,7 +14,7 @@ set :user, 'deploy'
 
 set(:dest) { Capistrano::CLI.ui.ask("Destination: ") }
 
-set :deploy_to,    "/home/#{user}/#{application}"
+set :deploy_to,    "/home/#{user}/apps/#{application}"
 
 before 'deploy:update', 'deploy:update_jekyll'
 
