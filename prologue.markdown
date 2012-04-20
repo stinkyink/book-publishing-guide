@@ -10,7 +10,7 @@ prevlabel: Chapter 4
 
 We really hope that some of the material we’ve provided here will assist you
 in writing your book, and from the whole of the
-[Stinkyink.com](http://www.stinkyinkshop.co.uk) team... good luck!
+<a href="http://www.stinkyinkshop.co.uk" rel="external">Stinkyink.com</a> team... good luck!
 
 If there’s anything that you think we haven’t covered well enough let us know
 and we’ll try to include some more information. Equally if you’ve got a
@@ -18,7 +18,7 @@ success story that we’ve been part of (even in a minor way) we’d really love
 to hear from you.
 
 In fact even if you just want to shamelessly plug your new book leave us a
-comment below or send [@stinky_ink](https://twitter.com/#!/stinky_ink) a
+comment below or send <a href="https://twitter.com/#!/stinky_ink" rel="external">@stinky_ink</a> a
 tweet. We’ve got a few avid readers on our team who’d love to get their hands
 on some new and exciting material and some new content on their Kindles.
 

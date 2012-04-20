@@ -15,16 +15,16 @@ popular, but it may not necessarily be the best route for you. This section
 highlights the main benefits and drawbacks of this approach to help you
 decide.
 
-Electronic books (or eBooks) are one of the [fastest growing markets in the
-world](http://paidcontent.org/2011/08/09/419-new-stats-book-publishing-
-industry-is-growing-with-e-books-up-over-1000/). The graph below shows the
+Electronic books (or eBooks) are one of the <a href="http://paidcontent.org/2011/08/09/419-new-stats-book-publishing-
+industry-is-growing-with-e-books-up-over-1000/" rel="external">fastest growing markets in the
+world</a>. The graph below shows the
 revenue growth in the US alone (if you don’t like graphs, let me assure you
 it’s impressive).
 
 <img src="/book-publishing-guide/img/ebookrevenue.jpg" class="align-center" />
 
-Image courtesy of [International Digital Publishing Forum](http://idpf.org
-/about-us/industry-statistics)
+Image courtesy of <a href="http://idpf.org
+/about-us/industry-statistics" rel="external">International Digital Publishing Forum</a>
 
 Growth like this can’t be ignored, so why the amazing boom in interest? Well,
 there are numerous advantages to publishing your own eBook over traditional
@@ -117,8 +117,8 @@ you from listing the book at a lower price on any other website.
 At the time of writing this guide, eBook sellers are actually in a legal
 battle regarding price-fixing and collusion on eBook pricing. We couldn’t
 think of anything more apt to sum up the possible risks in eBook pricing than
-[this article from CBCNews](http://www.cbc.ca/news/technology/story/2012/03/09
-/ebook-price-fixing.html).
+<a href="http://www.cbc.ca/news/technology/story/2012/03/09
+/ebook-price-fixing.html" rel="external">this article from CBCNews</a>.
 
 ####‘Limited’ market
 
@@ -139,7 +139,7 @@ considerations for anyone looking at how to publish an eBook, with links to
 recommended companies and offers where appropriate.
 
 If you have access to Twitter, a great place to start is following the hashtag
-[#ePrdctn](https://twitter.com/#!/search/%23eprdctn), which is a dedicated
+<a href="https://twitter.com/#!/search/%23eprdctn" rel="external">#ePrdctn</a>, which is a dedicated
 topic discussing how to publish an eBook.
 
 ### <a name="c2_2_1">The cover design</a>
@@ -175,13 +175,13 @@ run it by a professional before committing to that cover as the final design.
 
 ####Companies that design book covers
 
-* [2H Design](http://www.nedof2h.net/)
-* [Lulu Book Cover Design](http://www.lulu.com/shop/service/product-basiccover.html)
-* [The Book Design](http://www.thebookdesign.co.uk/)
-* [Spiffing Covers](http://www.spiffingcovers.com/)
+* <a href="" rel="external">2H Design</a>(http://www.nedof2h.net/)
+* <a href="" rel="external">Lulu Book Cover Design</a>(http://www.lulu.com/shop/service/product-basiccover.html)
+* <a href="" rel="external">The Book Design</a>(http://www.thebookdesign.co.uk/)
+* <a href="" rel="external">Spiffing Covers</a>(http://www.spiffingcovers.com/)
 
-We got in touch with these companies when publishing this guide, and [Spiffing
-Covers](http://www.spiffingcovers.com/) were kind enough to get back to us and
+We got in touch with these companies when publishing this guide, and <a href="http://www.spiffingcovers.com/" rel="external">Spiffing
+Covers</a> were kind enough to get back to us and
 offer a 25% discount for any customers who get in touch and quote “Stinkyink”
 to them. Bargain!
 
@@ -191,8 +191,8 @@ Most responses will be from overseas. Remember to be careful with your
 selection. For example, does the designer have experience of what works with
 books, or does he/she speak fluent English.
 
-* [eLance](http://www.elance.com/)
-* [PeoplePerHour](http://www.peopleperhour.com/)
+* <a href="http://www.elance.com/" rel="external">eLance</a>
+* <a href="http://www.peopleperhour.com/" rel="external">PeoplePerHour</a>
 
 ### <a name="c2_2_2">eBook file formats</a>
 
@@ -204,7 +204,7 @@ to produce their own volume, as you’ll need an eBook in multiple formats.
 
 <img src="/book-publishing-guide/img/ebookformats.jpg" class="align-center" />
 
-Figures courtesy of [manybooks.net](http://www.manybooks.net)
+Figures courtesy of <a href="http://www.manybooks.net" rel="external">manybooks.net</a>
 
 Thankfully, you won’t need to cover all of these formats, and you’ll only need
 three formats to cover the majority of the e-reader market:
@@ -234,18 +234,18 @@ We’ve picked some reliable companies below that offer the services you need
 for certain formats.
 
 If you want any additional information about converting to the ePub format
-before committing to one of these companies, [check out this great array of
-tips](http://connect.lulu.com/t5/eBook-Formatting-Publishing/eBook-Creator-
-Guide/ta-p/109443):
+before committing to one of these companies, <a href="http://connect.lulu.com/t5/eBook-Formatting-Publishing/eBook-Creator-
+Guide/ta-p/109443" rel="external">check out this great array of
+tips</a>:
 
-* ####[Lulu](http://www.lulu.com/uk/publish/ebooks/?cid=nav_ebks)
+* ####<a href="http://www.lulu.com/uk/publish/ebooks/?cid=nav_ebks" rel="external">Lulu</a>
 
   Useful for converting to the ePub format, it is a very helpful company, with
   good customer service (though it’s on American east coast time, so -5 hours)
   and very clear website design. You can pay Lulu a one-time fee and you won’t
   pay them any additional commissions, which might be worthwhile.
 
-* ####[2EPub](http://www.2epub.com/)
+* ####<a href="http://www.2epub.com/" rel="external">2EPub</a>
 
   If you’re looking for a simple, quick solution to your format conversion, this
   is the website for you. Supporting most common format types, including .doc
@@ -253,18 +253,18 @@ Guide/ta-p/109443):
   simply upload your file, specify the book name, author and file type, hit
   convert and then download your new shiny ePub format file.
 
-* ####[Amazon Kindle Direct Publishing](https://kdp.amazon.com/self-publishing/help?topicId=A2RYO17TIRUIVI)
+* ####<a href="https://kdp.amazon.com/self-publishing/help?topicId=A2RYO17TIRUIVI" rel="external">Amazon Kindle Direct Publishing</a>
 
   Amazon has created one of the most comprehensive and clear services we have
   ever seen. If you’re looking to convert a book into the Kindle format,
   everything you need to know can be found on this publishing site.
 
-* ####[Hamster eBook Converter](http://ebook.hamstersoft.com/home)
+* ####<a href="http://ebook.hamstersoft.com/home" rel="external">Hamster eBook Converter</a>
 
   If you like hamsters, and like writing books, you’ve found your dream piece of
   software. It’s a free download and a great little converter.
 
-* ####[Calibre eBook](http://calibre-ebook.com)
+* ####<a href="http://calibre-ebook.com" rel="external">Calibre eBook</a>
 
   Slightly more complicated but worthwhile nonetheless if you’re looking to
   convert eBook formats. This software is not only a converter but it also
@@ -280,22 +280,22 @@ We’ve listed the most important places below, which should be the minimum you
 look at being listed on. After these you may want to then go out and list
 yourself on others, but start with these recommended sites..
 
-* ####[Amazon](https://kdp.amazon.com/self-publishing/signin)
+* ####<a href="https://kdp.amazon.com/self-publishing/signin" rel="external">Amazon</a>
 
     Expected return per sale: 70%
 
-    Check out [CreateSpace](https://www.createspace.com/), a service provided by
+    Check out <a href="https://www.createspace.com/" rel="external">CreateSpace</a>, a service provided by
     Amazon to help advise prospective writers on how to publish for them.
 
-* ####[Apple iBookstore](https://itunesconnect.apple.com/WebObjects/iTunesConnect.woa/wa/bookSignup)
+* ####<a href="" rel="external">Apple iBookstore</a>(https://itunesconnect.apple.com/WebObjects/iTunesConnect.woa/wa/bookSignup)
 
   Expected return per sale: 70%
 
-* ####[Lulu](http://www.lulu.com/publish/ebooks/)
+* ####<a href="http://www.lulu.com/publish/ebooks/" rel="external">Lulu</a>
 
   Expected return per sale: 56%
 
-* ####[Clickbank](http://www.clickbank.com/sell_products.html)
+* ####<a href="http://www.clickbank.com/sell_products.html" rel="external">Clickbank</a>
 
   Expected return per sale: Differs per price.
 
@@ -303,16 +303,16 @@ yourself on others, but start with these recommended sites..
   after this amount, minus whatever you choose to give to any affiliates set up
   with Clickbank.
 
-* ####[Barnes and Noble](http://pubit.barnesandnoble.com/pubit_app/bn?t=pi_reg_home)
+* ####<a href="http://pubit.barnesandnoble.com/pubit_app/bn?t=pi_reg_home" rel="external">Barnes and Noble</a>
 
   Expected return per sale: 65% on books between $2.99 and $9.99. 40% on all
   other book prices.
 
-* ####[FetchApp](http://www.fetchapp.com/)
+* ####<a href="http://www.fetchapp.com/" rel="external">FetchApp</a>
 
     If you are a bit techy, and fancy keeping the biggest chunk of the profits for
     yourself, you can take out the middleman and sell directly from your own
-    website. Set up your own [Shopify](http://Shopify.com) website, use the
+    website. Set up your own <a href="http://Shopify.com" rel="external">Shopify</a> website, use the
     FetchApp plugin, and they’ll automatically email your customers a download
     link when they buy your book.
 
@@ -320,8 +320,8 @@ That should be everything you need to get your best-seller launched and on to
 people’s e-readers in no time at all.
 
 If you do need any help along the way, either check out the very good help
-sections on the websites we’ve recommended, send an email to [info@stinkyink.c
-om](mailto:info@stinkyink.com?subject=book+publishing+guide+question), or post
+sections on the websites we’ve recommended, send an email to <a href="mailto:info@stinkyink.com?subject=book+publishing+guide+question" rel="external">info@stinkyink.c
+om</a>, or post
 a comment and we’ll do our best to help.
 
 ## <a name="c2_3">2:3 - Using an Assisted Publisher</a>
@@ -368,7 +368,7 @@ to treat possible customers.
 
 ### Useful contacts
 
-* ####[Lulu](http://www.lulu.com/uk/publish/ebooks/?cid=nav_ebks)
+* ####<a href="http://www.lulu.com/uk/publish/ebooks/?cid=nav_ebks" rel="external">Lulu</a>
 
   This helpful American company has a good website. Apple retains 30% of all
   revenue from sales through Lulu. The publisher (that’s you) receives 80% of
@@ -376,19 +376,19 @@ to treat possible customers.
   time fee and you won’t pay them any additional commissions, which might be
   worthwhile.
 
-* ####[iUniverse](http://www.iuniverse.com/)
+* ####<a href="http://www.iuniverse.com/" rel="external">iUniverse</a>
 
     A fantastic digital publishing website that has tips and tricks for nearly
     everything you need to know. With marketing guides for self-publishers, an
     active and helpful community, plus an incredibly helpful “Expert Advice”
     section, iUniverse is a great resource even if you don’t publish through them.
 
-* ####[AuthorHouse](http://www.authorhouse.com/default.aspx)
+* ####<a href="http://www.authorhouse.com/default.aspx" rel="external">AuthorHouse</a>
 
   Another helpful website with a comprehensive resource section, community and
   clear pricing structure.
 
-* ####[Writer’s Digest](http://www.writersdigest.com/)
+* ####<a href="http://www.writersdigest.com/" rel="external">Writer’s Digest</a>
 
   This website is dedicated to pointing you in the right direction if you’re
   looking for publishing or writing assistance. With recommended companies and
@@ -406,8 +406,8 @@ books you sell. They’re going to try and sell you things you don’t need, so
 run through the feature set with a fine-tooth comb and make sure that what
 you’re paying for is what you want!
 
-There’s a great resource over on the website [Absolute
-Write](http://absolutewrite.com/forums/forumdisplay.php?f=22), which helps you
+There’s a great resource over on the website <a href="http://absolutewrite.com/forums/forumdisplay.php?f=22" rel="external">Absolute
+Write</a>, which helps you
 check up on digital publishers and if anyone has ever had an issue with them
 
 If you’re not interested in other methods of publication and are ready to go,

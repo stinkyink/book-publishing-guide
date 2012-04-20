@@ -41,8 +41,8 @@ another unnamed author through their in-tray.
 * Far more difficult/expensive to market.
 
 If you want a quick glossary to explain all the important terms around book
-publishing, there’s a [great little article
-here](http://www.writersservices.com/res/ri_adv_royalties.htm) (apologies for
+publishing, there’s a <a href="http://www.writersservices.com/res/ri_adv_royalties.htm" rel="external">great little article
+here</a> (apologies for
 the website design, but the information is good in my opinion).
 
 Unless you’re an established, successful author, this route is going to be
@@ -64,13 +64,13 @@ film or foreign markets.
 
 Writing groups are a great way to start finding connections in an area.
 There’s a great resource on Twitter for this -
-[@WritersGroups](https://twitter.com/#!/WritersGroups) - which is a good way
+<a href="https://twitter.com/#!/WritersGroups" rel="external">@WritersGroups</a> - which is a good way
 to get in touch with like-minded people who can help.
 
 The internet is a fantastic resource, with access to countless social websites
 and of course Google, for finding top recommended and reviewed agents.
 
-[Bloomsbury actually recommend a company](http://www.writersandartists.co.uk/)
+<a href="http://www.writersandartists.co.uk/" rel="external">Bloomsbury actually recommend a company</a>
 for pursuing your project with, and they can help link you up with agents,
 though it does come at a cost of £119.
 
@@ -86,8 +86,8 @@ fiction novel, try and find agents with previous experience in science fiction
 books. They’ll have the market contacts and knowledge to give you the best
 possible chance of success.
 
-An example of a specialist agency is the [Andrew Lownie Literary
-Agency](http://www.andrewlownie.co.uk/how_to_submit). You’ll see whenever they
+An example of a specialist agency is the <a href="http://www.andrewlownie.co.uk/how_to_submit" rel="external">Andrew Lownie Literary
+Agency</a>. You’ll see whenever they
 talk about themselves they mention specialising in non-fiction, particularly
 in history and biographies. Contacting them with the next best fantasy
 adventure probably won’t yield a result.
@@ -124,8 +124,8 @@ Due to this, you need to make the most of your own chance to impress, and it’s
 up to you and your agent to get this proposal together.
 
 There’s an amazing guide from the incredibly experienced publishing editor,
-[Michael Hyatt](http://michaelhyatt.com/five-publishing-hurdles-and-how-to-
-clear-them.html), which walks you through the stages a publishing house goes
+<a href="http://michaelhyatt.com/five-publishing-hurdles-and-how-to-
+clear-them.html" rel="external">Michael Hyatt</a>, which walks you through the stages a publishing house goes
 through when moving a potential book from proposal onto the shelves. I highly
 recommend that you read it.
 
@@ -262,20 +262,20 @@ publish experience and research in limited volumes.
 
 Making your own hard copy is surprisingly cheap in monetary terms, the largest
 component of the costs being the postage. The true cost however is in time,
-creating a book by hand requires [patience and
-skill](http://www.youtube.com/watch?v=Sy3ahNHje9I&feature=related), as well as
+creating a book by hand requires <a href="http://www.youtube.com/watch?v=Sy3ahNHje9I&feature=related" rel="external">patience and
+skill</a>, as well as
 some simple tools.
 
 Most of the bookbinding tools you’ll need are commonly found in craft stores
 but you may have to build your own binding jig as these are slightly harder to
-come by. However the [process of making
-one](http://www.youtube.com/watch?v=D1nIDz4YgM4) isn’t particularly difficult,
+come by. However the <a href="" rel="external">process of making
+one</a>(http://www.youtube.com/watch?v=D1nIDz4YgM4) isn’t particularly difficult,
 and since it’s simply a wooden frame it’s not expensive either.
 
 We’ve gathered a couple of
-[guides](http://www.persistenceunlimited.com/2006/03/fun-and-easy-how-to-
-guide-to-binding-your-own-paperback-books-at-homefast/) and
-[videos](http://www.youtube.com/watch?v=oBSUHbyf7Ss) offering you advice on
+<a href="http://www.persistenceunlimited.com/2006/03/fun-and-easy-how-to-
+guide-to-binding-your-own-paperback-books-at-homefast/" rel="external">guides</a> and
+<a href="http://www.youtube.com/watch?v=oBSUHbyf7Ss" rel="external">videos</a> offering you advice on
 how to go about the physical steps of printing and binding your own book.
 
 #### <a name="c3_1_2">Print-on-demand</a>
@@ -298,9 +298,9 @@ such provide affordable rates on their services that won’t break the bank.
 
 ####Recommended companies
 
-* [Self-Publishing](http://www.selfpublishing.com/)
-* [Lightning Source](http://www1.lightningsource.com/)
-* [Xlibris](http://www2.xlibris.com/)
+* <a href="http://www.selfpublishing.com/" rel="external">Self-Publishing</a>
+* <a href="http://www1.lightningsource.com/" rel="external">Lightning Source</a>
+* <a href="http://www2.xlibris.com/" rel="external">Xlibris</a>
 
 If print-on-demand is for you, and you’re not interested in other methods of
 publication, check out our tips on preparing your book for publication in

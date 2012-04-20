@@ -33,8 +33,8 @@ moderately.
 ## First things first, who are you marketing to?.
 
 Aimless marketing may as well be money down the drain, and it is absolutely
-crucial to target the right individuals. [Here are a few detailed pointers](ht
-tp://www.authorhouse.com/AuthorResources/Marketing/Plan/Target.aspx) to help
+crucial to target the right individuals. <a href="ht
+tp://www.authorhouse.com/AuthorResources/Marketing/Plan/Target.aspx" rel="external">Here are a few detailed pointers</a> to help
 identify and understand your target audience before the marketing process even
 begins.
 
@@ -49,7 +49,7 @@ inspires you and anything else their heart desires.
 
 <img src="/book-publishing-guide/img/wordpress.png" class="align-right" />
 If you’re a technophobe we’d definitely advise using a
-[blogging solution called WordPress](http://wordpress.com/), which has made
+<a href="http://wordpress.com/" rel="external">blogging solution called WordPress</a>, which has made
 creating your own blog a cinch. They hold your hand at every stage of the
 website-creation to make sure you get everything set up smoothly.
 
@@ -64,8 +64,8 @@ called “Search Engine Optimisation”, often referred to as SEO. This will hel
 your website rank well in search engines, helping you get visibility and
 visits for people looking for your author name or book.
 
-[Start simple - the great Beginner’s Guide to SEO](http://www.seomoz.org
-/beginners-guide-to-seo)
+<a href="http://www.seomoz.org
+/beginners-guide-to-seo" rel="external">Start simple - the great Beginner’s Guide to SEO</a>
 
 ### Activities for your own website
 
@@ -137,11 +137,11 @@ investment.
 <img src="/book-publishing-guide/img/mailchimp.png" class="align-left" />
 Look around for email service providers that you are
 comfortable using. If you trust our recommendations, we suggest you give
-[Mailchimp](http://mailchimp.com) a try. It’s free up to 2,000 subscribers in
+<a href="http://mailchimp.com" rel="external">Mailchimp</a> a try. It’s free up to 2,000 subscribers in
 their Forever Free plan, and you barely lose any functionality from the paid
 options. Overall, a fantastic choice for starting your email activities.
 
-[Check out MailChimp here](http://mailchimp.com)
+<a href="http://mailchimp.com" rel="external">Check out MailChimp here</a>
 
 ## Book marketing tip 3: Have a social media presence
 
@@ -158,18 +158,18 @@ your topic. An account is free and easily monitorable from any web-connected
 device, so you’ve got no reason not to have one!
 
 These hashtag chats are a great way to get in touch with people who are active
-in different areas. There is a publicly available [list of hashtags](https://d
+in different areas. There is a publicly available <a href="https://d
 ocs.google.com/a/stinkyink.com/spreadsheet/ccc?key=0AhisaMy5TGiwcnVhejNHWnZlT3
-NvWFVPT3Q4NkIzQVE#gid=0) here that you can use to find people active in your
+NvWFVPT3Q4NkIzQVE#gid=0" rel="external">list of hashtags</a> here that you can use to find people active in your
 field.
 
 A couple of tags that we’d recommend following and/or getting involved with
-are [#ePrdctn](https://twitter.com/#!/search/%23ePrdctn) and
-[#storycraft](https://twitter.com/#!/search/%23storycraft).
+are <a href="https://twitter.com/#!/search/%23ePrdctn" rel="external">#ePrdctn</a> and
+<a href="https://twitter.com/#!/search/%23storycraft" rel="external">#storycraft</a>.
 
-[#ePrdctn](https://twitter.com/#!/search/%23ePrdctn) is a channel for all
+<a href="https://twitter.com/#!/search/%23ePrdctn" rel="external">#ePrdctn</a> is a channel for all
 kinds of discussions about the processes of creating an eBook.
-[#storycraft](https://twitter.com/#!/search/%23storycraft) is a great place
+<a href="https://twitter.com/#!/search/%23storycraft" rel="external">#storycraft</a> is a great place
 for fiction writers to get a bit of assistance with the forging of their
 worlds. It’s well worth scanning down the list and seeing if there’s a chat
 set up that may contain at least part of your target audience.
@@ -177,8 +177,8 @@ set up that may contain at least part of your target audience.
 ### Facebook
 
 A Facebook page is another minimum requirement that is free and beneficial.
-With the introduction of [Facebook
-timeline](http://www.facebook.com/about/timeline), your entire author's life
+With the introduction of <a href="http://www.facebook.com/about/timeline" rel="external">Facebook
+timeline</a>, your entire author's life
 and publishing history and success stories are readily available.
 
 <img class="align-right" src="/book-publishing-guide/img/fbstar.jpg" >
@@ -205,22 +205,22 @@ the masses know via your social accounts! Once word of mouth spreads your
 competition can really take off.
 
 Be aware of the guidelines for post competitions on
-[Twitter](https://support.twitter.com/articles/68877-guidelines-for-contests-
-on-twitter) and [Facebook](http://www.facebook.com/promotions_guidelines.php)
-as they’ll affect the choices available for you. There’s some nice [advice on
-running a Twitter competition](http://billbolmeier.com/run-contest-twitter/)
+<a href="https://support.twitter.com/articles/68877-guidelines-for-contests-
+on-twitter" rel="external">Twitter</a> and <a href="" rel="external">Facebook</a>(http://www.facebook.com/promotions_guidelines.php)
+as they’ll affect the choices available for you. There’s some nice <a href="http://billbolmeier.com/run-contest-twitter/" rel="external">advice on
+running a Twitter competition</a>
 here.
 
 ## Book marketing tip 4: Get social on dedicated websites
 
 We’ve mentioned it numerous times in this guide, but the
-[Goodreads](http://goodreads.com) website is a fantastic community of avid
+<a href="http://goodreads.com" rel="external">Goodreads</a> website is a fantastic community of avid
 readers whom could not make it any clearer they love books and want to be
 involved in reading-related activites as much as possible.
 
 Whether you want their reading suggestions or not, head to their website and
-create a new account (it’s free). Once you’re done, either [follow this
-link](http://www.goodreads.com/group) or click on the top navigation on their
+create a new account (it’s free). Once you’re done, either <a href="http://www.goodreads.com/group" rel="external">follow this
+link</a> or click on the top navigation on their
 website to get to the Goodreads Group page.
 
 Welcome... to information!
@@ -230,7 +230,7 @@ the heart desires. On a researching level this is perfect, but once your name
 becomes more established you can set up discussion groups and events based
 around you as an author, and your works.
 
-[Start your Goodreads account now](http://goodreads.com)
+<a href="http://goodreads.com" rel="external">Start your Goodreads account now</a>
 
 ## Book marketing tip 5: You have your own blog, now use others
 
@@ -251,7 +251,7 @@ Couple this with any contacts or active social accounts you find on Twitter or
 Facebook (more of that below) and you’ll have plenty of people to get involved
 with.
 
-[StumbleUpon](http://stumbleupon.com) and [Technorati](http://technorati.com)
+<a href="http://stumbleupon.com" rel="external">StumbleUpon</a> and <a href="http://technorati.com" rel="external">Technorati</a>
 can help you find related blogs, though they are slightly more long winded
 methods than just searching Google intelligently.
 
@@ -280,9 +280,9 @@ employ a Pay Per Click (PPC) company to do this for you as, going solo, one
 simple mistake may cost you thousands. Anything from an incorrectly set
 budget, to poor negative keywords, can be catastrophic for your bank account,
 and we’d advise you either start studying popular advertising platforms such
-as [Google Adwords](http://www.google.co.uk/intl/en/adwords/jumpstart/uksmb-11
-11.html#sourceid=awo&subid=uk-en-ha-aw_bkws&medium=ha&term=%2Bgoogleadwords)
-and [Google Adsense](http://www.google.co.uk/intl/en_GB/ads/publisher/#subid=ww-en-et-adsense-pubsollink) or look for recommended companies to do it for
+as <a href="http://www.google.co.uk/intl/en/adwords/jumpstart/uksmb-11
+11.html#sourceid=awo&subid=uk-en-ha-aw_bkws&medium=ha&term=%2Bgoogleadwords" rel="external">Google Adwords</a>
+and <a href="http://www.google.co.uk/intl/en_GB/ads/publisher/#subid=ww-en-et-adsense-pubsollink" rel="external">Google Adsense</a> or look for recommended companies to do it for
 you.
 
 ## <a name="c4_2">Marketing your book in the real world</a>
@@ -330,19 +330,19 @@ paced world. Due to that, we’ll update below with some fascinating or
 recommended marketing tips as we encounter them, giving you something to refer
 to if you’re ever looking for that next bright spark.
 
-* ####[AuthorHouse Guide to Book Marketing](http://www.authorhouse.com/AuthorResources/Marketing.aspx)
+* ####<a href="http://www.authorhouse.com/AuthorResources/Marketing.aspx" rel="external">AuthorHouse Guide to Book Marketing</a>
 
   A must read for those serious about marketing their book. An amazing resource
   with creative thoughts and approaches to nigh on any form of marketing or
   advice for your book.
 
-* ####[Self Publishing a book: 25 things to know](http://reviews.cnet.com/self-publishing/)
+* ####<a href="http://reviews.cnet.com/self-publishing/" rel="external">Self Publishing a book: 25 things to know</a>
 
   This article has some all round advice that is great for those new to the area
   of publishing. There’s some fascinating marketing comments in point 18 that
   are well worth considering.
 
-* ####[iUniverse Book Marketing Guide](http://www.iuniverse.com/ExpertAdvice/MarketingYourBook/Default.aspx)
+* ####<a href="http://www.iuniverse.com/ExpertAdvice/MarketingYourBook/Default.aspx" rel="external">iUniverse Book Marketing Guide</a>
 
   A nice little hub of information to give you some key pointers and tips on
   marketing your new book.

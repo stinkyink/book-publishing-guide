@@ -57,11 +57,11 @@ an affiliate link, so we set up an account to get the code for you!
 
 We’re not going to cover the basics of actually writing your book, such as
 researching potential readers or authoritative figures in your genre. If you
-need any tips on these areas you can [download a great little
-guide](http://www.thebookdesigner.com/free-10-things-you-need-to-know-about-
-self-publishing/) which goes into the necessary steps:
+need any tips on these areas you can <a href="http://www.thebookdesigner.com/free-10-things-you-need-to-know-about-
+self-publishing/" rel="external">download a great little
+guide</a> which goes into the necessary steps:
 
 Additionally, if you’re looking to make contacts or attend events with like-
-minded individuals, the website [Goodreads.com](http://goodreads.com) is a
+minded individuals, the website <a href="http://goodreads.com" rel="external">Goodreads.com</a> is a
 great little resource. Linking you to readers and authors, and a very healthy
 community, you can find a goldmine of information here.
