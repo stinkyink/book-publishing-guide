@@ -6,5 +6,7 @@ exclude:
     - README.md
     - Gemfile
     - Gemfile.lock
+    - Capfile
+    - capistrano.rb
 baseurl:  /book-publishing-guide
   
