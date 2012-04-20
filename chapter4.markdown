@@ -272,8 +272,7 @@ employ a Pay Per Click (PPC) company to do this for you as, going solo, one
 simple mistake may cost you thousands. Anything from an incorrectly set
 budget, to poor negative keywords, can be catastrophic for your bank account,
 and we’d advise you either start studying popular advertising platforms such
-as <a href="http://www.google.co.uk/intl/en/adwords/jumpstart/uksmb-11
-11.html#sourceid=awo&subid=uk-en-ha-aw_bkws&medium=ha&term=%2Bgoogleadwords" rel="external">Google Adwords</a>
+as <a href="http://www.google.co.uk/intl/en/adwords/jumpstart/uksmb-1111.html" rel="external">Google Adwords</a>
 and <a href="http://www.google.co.uk/intl/en_GB/ads/publisher/#subid=ww-en-et-adsense-pubsollink" rel="external">Google Adsense</a> or look for recommended companies to do it for
 you.
 
