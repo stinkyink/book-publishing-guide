@@ -317,7 +317,7 @@ sections on the websites we’ve recommended, send an email to [info@stinkyink.c
 om](mailto:info@stinkyink.com?subject=book+publishing+guide+question), or post
 a comment and we’ll do our best to help.
 
-## <a name="c2_3">2:3 - Using an Assisted Publisher</a>
+## <a name="c2_3">2:3 - Using A Digital Publisher</a>
 
 A digital publisher is one where all of the major considerations, such as
 cover design, proofreading, etc. are done for you in the same way a
@@ -328,7 +328,7 @@ publisher.
 Also known as ‘assisted eBook publishing’, this method is perfect for
 individuals with limited time on their hands who are happy to pay for a
 comprehensive service. Indeed, with time in short supply these days, and if it
-is your first venture into self-publishing, then having a professional to
+is your first venture into self-publishing, having a professional to
 organise proofreading, cover designs and format considerations could make the
 difference between you actually launching your book or not.
 
