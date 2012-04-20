@@ -190,7 +190,7 @@ their 30% share and the agent takes an assumed 15% share.
 
 The vast majority of publishing contracts will sign away the rights for the
 life of the book. Any royalty rate agreed will typically remain for that
-single book, which is why you need to be so careful with initial negotiations.
+single book, which is whichhy you need to be so careful with initial negotiations.
 
 ####Marketing Demands
 
@@ -289,8 +289,10 @@ sold, so there’s no large sum of money tied up in stocks. What’s more, the
 print-on-demand services we’ve listed below understand their markets and as
 such provide affordable rates on their services that won’t break the bank.
 
-####Recommended Companies
+#### Recommended Companies
 
-* <a href="http://www.selfpublishing.com/" rel="external">Self-Publishing</a>
-* <a href="http://www1.lightningsource.com/" rel="external">Lightning Source</a>
-* <a href="http://www2.xlibris.com/" rel="external">Xlibris</a>
+<ul>
+  <li><a href="http://www.selfpublishing.com/" rel="external">Self-Publishing</a></li>
+  <li><a href="http://www1.lightningsource.com/" rel="external">Lightning Source</a></li>
+  <li><a href="http://www2.xlibris.com/" rel="external">Xlibris</a></li>
+</ul>
