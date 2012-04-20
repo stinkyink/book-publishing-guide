@@ -59,8 +59,8 @@ use as a benchmark.
 Scribendi provides professional proofreading and editing services for any
 length of book. They’ve given us permission to list a special introductory
 offer where you can get up to 1,500 words proofed free to see the quality of
-their service. <a href="" rel="external">We love free trials and heartily recommend giving it a go
-here!</a>(https://www.scribendi.com/service/free_sample_edit_book_manuscripts)
+their service. <a href="https://www.scribendi.com/service/free_sample_edit_book_manuscripts" rel="external">
+We love free trials and heartily recommend giving it a go here!</a>
 
 * ####<a href="http://bubblecow.co.uk/" rel="external">Bubblecow.co.uk</a>
 

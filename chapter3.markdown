@@ -255,7 +255,7 @@ publish experience and research in limited volumes.
 
 Making your own hard copy is surprisingly cheap in monetary terms, the largest
 component of the costs being the postage. The true cost however is in time,
-creating a book by hand requires <a href="http://www.youtube.com/watch?v=Sy3ahNHje9I&feature=related" rel="external">patience and
+creating a book by hand requires <a href="http://www.youtube.com/watch?v=Sy3ahNHje9I&amp;feature=related" rel="external">patience and
 skill</a>, as well as
 some simple tools.
 
