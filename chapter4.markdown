@@ -2,8 +2,8 @@
 layout: default
 id: chapter4
 title: Chapter 4 - Marketing Your Book
-nextpath: /prologue/
-nextlabel: Prologue
+nextpath: /epilogue/
+nextlabel: Epilogue
 ---
 
 # How to Market Your Book
