@@ -83,15 +83,8 @@ publishing process for both those looking for a career or those simply using
 writing as a hobby.
 
 It can be complicated to decide even the most basic things, such as “What is
-<<<<<<< HEAD
-tax deductible?” There’s a [great little guide
-here](http://www.scribendi.com/advice/tax_tips_for_writers.en.html) which
-will point you in the right direction for your tax considerations.
-=======
 tax deductible?” There’s a <a href="http://www.scribendi.com/advice/tax_tips_for_writers.en.html" rel="external">great little guide
-here</a> which
-should point you in the right direction for your tax considerations.
->>>>>>> replaced markdown links with html
+here</a> which should point you in the right direction for your tax considerations.
 
 ## <a name="c1_3">Avoiding plagiarism</a>
 
@@ -143,14 +136,8 @@ be found here which will give you everything you need to know!
 
 ### Protecting your own works
 
-<<<<<<< HEAD
-There’s a great [breakdown of copyright
-information](http://www.whatiscopyright.org/) here which gives you a
-=======
-There’s a great <a href="http://www.whatiscopyright.org/" rel="external">breakdown of copyright
-information</a> here which should give you a
->>>>>>> replaced markdown links with html
-good idea of what’s acceptable, and what’s not.
+There’s a great <a href="http://www.whatiscopyright.org/" rel="external">breakdown of copyright information</a>
+here which should give you a good idea of what’s acceptable, and what’s not.
 
 To quickly summarise the important points of copyrighting your work:
 
@@ -201,10 +188,9 @@ later, so a little illegal activity may turn out to be good marketing.
 Taking a common sense approach to the mindset of a file sharer can actually
 highlight the root cause which can be addressed.
 
-For example, <a href="http://www.google.com/url?q=http%3A%2F%2Ftorrentfreak.com
-%2Fbittorrent-piracy-doesnt-affect-us-box-office-returns-study-
-finds-120210%2F&sa=D&sntz=1&usg=AFQjCNE7ukXDqrhReL9QcuKReo0lCj8w_A" rel="external">check out this research into the movie and film
-industry</a>, an
+For example, 
+<a href="http://torrentfreak.com/bittorrent-piracy-doesnt-affect-us-box-office-returns-study-finds-120210/" rel="external">check out this research into the movie and film industry</a>,
+ an
 industry that is heavily hit by illegal file sharing. This research highlights
 a tremendous correlation between films having a split release date between
 the Americas and Europe, and the number of times it is illegally shared.
@@ -226,15 +212,10 @@ difference, but we’ll discuss these more in our book marketing tips!
 There are a number of resources you can go to for further information about
 copyright. Some educational institutes such as
 <a href="http://copyright.columbia.edu/copyright/copyright-in-general
-/copyright-quickguide/" rel="external">Columbia</a> and <a href="" rel="external">Stanford</a>(http://copyright.columbia.edu/copyright
-/copyright-in-general/copyright-quickguide/) provide excellent guides that
-cover most areas of the law. There are also some
-<<<<<<< HEAD
-[charities](http://www.educause.edu/Resources/Browse/Copyright/17092) who
-=======
-<a href="http://www.educause.edu/Resources/Browse/Copyright/17092" rel="external">charities</a> who also
->>>>>>> replaced markdown links with html
-offer insight.
+/copyright-quickguide/" rel="external">Columbia</a> and <a href="http://copyright.columbia.edu/copyright
+/copyright-in-general/copyright-quickguide/" rel="external">Stanford</a> provide excellent guides that
+cover most areas of the law. There are also some <a href="http://www.educause.edu/Resources/Browse/Copyright/17092" rel="external">charities</a>
+who also offer insight.
 
 If you’re looking for advice and current happenings in the realms of online
 property (which as a potential eBook author you ought to be) the
@@ -260,8 +241,10 @@ purchased.
 If you require any further information on DRM, and how it can be applied to
 the different formats of eBooks, check out these two helpful posts:
 
-* <a href="http://www.drm.uk.com/" rel="external">The Official Library Site for Digital Rights Management</a>
-* <a href="http://en.wikipedia.org/wiki/Digital_rights_management#E-books" rel="external">Wikipedias DRM information for eBooks</a>
+<ul>
+  <li><a href="http://www.drm.uk.com/" rel="external">The Official Library Site for Digital Rights Management</a></li>
+  <li><a href="http://en.wikipedia.org/wiki/Digital_rights_management#E-books" rel="external">Wikipedias DRM information for eBooks</a></li>
+</ul>
 
 ## <a name="c1_6">Purchasing an ISBN</a>
 
