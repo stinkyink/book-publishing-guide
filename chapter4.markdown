@@ -8,14 +8,8 @@ nextlabel: Prologue
 
 # How to Market Your Book
 
-Regardless of how you choose to pursue your own book, you’ll need to have the
-basics in place. If you’ve not already, pop to chapter 1 and check out how to
-prepare your own book (link to chapter 1).
-
-So, you need to market your book! Unfortunately, marketing is really hard
+So, you've written an amazing book and now you need to market it! Unfortunately, marketing is really hard
 work...
-
-Worse yet, marketing in a competitive environment is harder work...
 
 Marketing as an unknown author in the highly competitive book-selling
 environment is even tougher still!
@@ -30,7 +24,7 @@ heard about. Please remember when approaching our comprehensive list below, it
 is far better to do a few of these book marketing tips well, than do them all
 moderately.
 
-## First things first, who are you marketing to?.
+## First Things First, Who Are You Marketing To?
 
 Aimless marketing may as well be money down the drain, and it is absolutely
 crucial to target the right individuals. <a href="ht
@@ -38,14 +32,14 @@ tp://www.authorhouse.com/AuthorResources/Marketing/Plan/Target.aspx" rel="extern
 identify and understand your target audience before the marketing process even
 begins.
 
-## <a name="c4_1">Marketing your book online...</a>
+## <a name="c4_1">Marketing Your Book Online...</a>
 
-### Book marketing tip 1: Set up your own author’s website
+### Book Marketing Tip 1: Set Up Your Own Author’s Website
 
-A personal author’s website is such an important marketing tool that
+A website helps people find out about you, what you’ve written, what
+inspires you and anything else their heart desires. Infact, a personal author’s website is such an important marketing tool that
 publishers actively look for, and encourage, authors to have their own online
-presence. A website helps people find out about you, what you’ve written, what
-inspires you and anything else their heart desires.
+presence. 
 
 <img src="/book-publishing-guide/img/wordpress.png" class="align-right" />
 If you’re a technophobe we’d definitely advise using a
@@ -53,21 +47,10 @@ If you’re a technophobe we’d definitely advise using a
 creating your own blog a cinch. They hold your hand at every stage of the
 website-creation to make sure you get everything set up smoothly.
 
-There’s a large and active community behind WordPress that means if you get
+There’s also a large and active community behind WordPress that means if you get
 stuck at any stage, help won’t be far away.
 
-####Search Engine Optimisation
-
-We won’t go into the specifics of how to optimise your website, but if you
-look at pursuing it independently we highly recommend reading up on a topic
-called “Search Engine Optimisation”, often referred to as SEO. This will help
-your website rank well in search engines, helping you get visibility and
-visits for people looking for your author name or book.
-
-<a href="http://www.seomoz.org
-/beginners-guide-to-seo" rel="external">Start simple - the great Beginner’s Guide to SEO</a>
-
-### Activities for your own website
+### Activities For Your Own Website
 
 Just stop and think for a moment about why people would come to an author's
 website...
@@ -88,7 +71,18 @@ they provide. The bare minimum your website should provide is:
 Once these basics are in place you can look at expanding the features of your
 website and really providing some great unique content and options.
 
-### Bonus suggestions for your own author blog
+### Bonus Suggestions For Your Own Author Blog
+
+####Search Engine Optimisation
+
+We won’t go into the specifics of how to optimise your website, but if you
+look at pursuing it independently we highly recommend reading up on a topic
+called “Search Engine Optimisation”, often referred to as SEO. This will help
+your website rank well in search engines, helping you get visibility and
+visits for people looking for your author name or book.
+
+<a href="http://www.seomoz.org
+/beginners-guide-to-seo" rel="external">Start simple - the great Beginner’s Guide to SEO</a>
 
 ####Competitions.
 
@@ -97,10 +91,10 @@ of a hard copy, are great rewards for fans showing an interest in your
 website.
 
 If you actually become a bestseller you’ll even have the small things like
-“the notepad my first book was drafted in” etc, which are all valuable assets.
+“the notepad my first book was drafted in”, which can all be valuable assets.
 
 If you can make any contest amusing then all the better, since people are much
-more likely to share things they find funny.
+more likely to share things they find funny, which increases the reach and benefit of your competition..
 
 ### Video / audio features
 
@@ -112,17 +106,16 @@ Something as simple as you reading the first chapter of your book can serve as
 a taster to prospective readers as well as an interesting discussion piece.
 Reading a page or two at a time cuts down on the time you’ll spend correcting
 errors and you can either upload it to your page as small audio segments or
-use a sound editing program to compile it into one file. If you really want to
+use a sound editing program to compile it into one file. 
+
+If you really want to
 spread your influence you can also consider videoing this and posting to your
 Youtube channel.
 
-## Book marketing tip 2: Start a mailing list
+## Book Marketing Tip 2: Start a Mailing List
 
-Your website can also harvest details of your fans and readers, giving you
-ways of contacting them that aren’t directly through your website. Building
-your own email list of interested fans is a very good way of keeping
-information flowing to those that really care about it, and is relatively easy
-to do.
+Building your own email list of interested fans is a very good way of keeping
+information flowing to those that really care about it.
 
 With upcoming releases, book discussions and competitions just a few of the
 many emailing possibilities out there, the earlier you can start populating
@@ -137,13 +130,15 @@ investment.
 <img src="/book-publishing-guide/img/mailchimp.png" class="align-left" />
 Look around for email service providers that you are
 comfortable using. If you trust our recommendations, we suggest you give
-<a href="http://mailchimp.com" rel="external">Mailchimp</a> a try. It’s free up to 2,000 subscribers in
+<a href="http://mailchimp.com" rel="external">Mailchimp</a> a try. 
+
+It’s free up to 2,000 subscribers in
 their Forever Free plan, and you barely lose any functionality from the paid
 options. Overall, a fantastic choice for starting your email activities.
 
 <a href="http://mailchimp.com" rel="external">Check out MailChimp here</a>
 
-## Book marketing tip 3: Have a social media presence
+## Book Marketing Tip 3: Have a Social Media Presence
 
 The world has become social, and having an online presence that talks,
 comments and is readily approachable is a great feature.
@@ -187,9 +182,6 @@ An author's Facebook page is also a great way to push new releases, with the
 ability to “star” new events to make them the full width of your page and act
 as a mini headline.
 
-Star the post and it becomes a header-like post that dominates your page and
-acts as an announcement.
-
 ### Google +
 
 Google+ is another area you might wish to invest time in. It’s a relatively
@@ -206,12 +198,12 @@ competition can really take off.
 
 Be aware of the guidelines for post competitions on
 <a href="https://support.twitter.com/articles/68877-guidelines-for-contests-
-on-twitter" rel="external">Twitter</a> and <a href="" rel="external">Facebook</a>(http://www.facebook.com/promotions_guidelines.php)
+on-twitter" rel="external">Twitter</a> and <a href="http://www.facebook.com/promotions_guidelines.php" rel="external">Facebook</a>
 as they’ll affect the choices available for you. There’s some nice <a href="http://billbolmeier.com/run-contest-twitter/" rel="external">advice on
 running a Twitter competition</a>
 here.
 
-## Book marketing tip 4: Get social on dedicated websites
+## Book Marketing Tip 4: Get Social on Dedicated Websites
 
 We’ve mentioned it numerous times in this guide, but the
 <a href="http://goodreads.com" rel="external">Goodreads</a> website is a fantastic community of avid
@@ -232,7 +224,7 @@ around you as an author, and your works.
 
 <a href="http://goodreads.com" rel="external">Start your Goodreads account now</a>
 
-## Book marketing tip 5: You have your own blog, now use others
+## Book Marketing Tip 5: You Have Your Own Blog, Now Use Others
 
 A great way to build a name for yourself in the blogosphere is to write guest
 posts for other websites.
@@ -240,7 +232,7 @@ posts for other websites.
 These posts can be anything you’re comfortable writing about that another blog
 would be interested in, and focusing on your strengths and experience as a
 “soon-to-be best selling author” is a great place to start. For example,
-writing tips or even previous experiences if you’re already published, is
+writing tips, or even previous experiences if you’re already published, is
 content which writing blogs will always love.
 
 Finding these opportunities is pretty effortless at first. A quick and
@@ -260,7 +252,7 @@ interviews etc, can be taken and applied to the content other websites want.
 Once you’ve got a few out there, you’ll find enquiries come in and certain
 websites actually make requests of you, which can only be good for your book.
 
-## Book marketing tip 6: Internet advertising
+## Book Marketing Tip 6: Internet Advertising
 
 Our previously discussed methods of marketing can give you word of mouth and
 awareness similar to advertising, and is all but free once you allow for the
@@ -285,7 +277,7 @@ as <a href="http://www.google.co.uk/intl/en/adwords/jumpstart/uksmb-11
 and <a href="http://www.google.co.uk/intl/en_GB/ads/publisher/#subid=ww-en-et-adsense-pubsollink" rel="external">Google Adsense</a> or look for recommended companies to do it for
 you.
 
-## <a name="c4_2">Marketing your book in the real world</a>
+## <a name="c4_2">Marketing Your Book In the Real World</a>
 
 It's important to remember that, while the internet provides important
 outreach opportunities, sometimes going out and meeting real people will
@@ -296,7 +288,7 @@ world” marketing. Remember these are just a few ideas; there are hundreds of
 opportunities that will be specific to your combination of subject matter,
 location and the nature of your publication.
 
-### Book marketing tip 7: Traditional advertising
+### Book marketing tip 7: Traditional Advertising
 
 Unless you’re signing with a major publisher we would suggest avoiding
 traditional advertising. Out of your own pocket it will be exorbitantly
@@ -305,10 +297,10 @@ expensive with likely minimal returns.
 Your time (and money) will be far better spent advertising YOURSELF in the
 following ways, or investing in the online methods we’ve previously discussed.
 
-### Book Marketing Tip 8: Get around
+### Book Marketing Tip 8: Get Around
 
-Research local events then find and attend wherever possible any reading
-groups or book clubs. If you’re confident enough in the quality of your book
+Research local events then find and attend wherever possible reading
+groups and book clubs. If you’re confident enough in the quality of your book
 you can even go as far as providing free copies of your books to these groups
 and inviting/encouraging feedback.
 
@@ -322,7 +314,7 @@ assist getting you into the major outlets, but smaller, dedicated book stores
 and websites are easy enough to contact and there’s no shame in pitching
 yourself.
 
-### Book marketing tip 9: Nothing is ever enough
+### Book marketing tip 9: Nothing Is Ever Enough
 
 Even with everything in this guide, you’re going to need more! As a wise
 business man once said, you have to keep running to stand still in this fast
