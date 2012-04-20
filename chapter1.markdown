@@ -19,7 +19,7 @@ the publishing and book reviews fields. It doesn’t guarantee success, but
 following these pointers is a first step in getting your idea into the hands
 of readers, whether it’s via eBook or hard copy.
 
-## <a name="c1_1">Proofreading and copy editing</a>
+## <a name="c1_1">Proofreading and Copy Editing</a>
 
 It’s incredibly difficult to proofread your own work. You’ll subconsciously
 remember how the sentences end, where the story is going, and won’t notice the
@@ -52,7 +52,7 @@ use as a benchmark.
 
 **Top tip:** Approaching teachers or academics outside term time can lead to a great proof read at an excellent price.
 
-### Recommended proofreading & editing companies
+### Recommended Proofreading and Editing Companies
 
 * ####<a href="http://www.scribendi.com/" rel="external">Scribendi.com</a>
 
@@ -76,7 +76,7 @@ information</a>, <a href="http://www.proofers.co.uk/pricing.html" rel="external"
 time</a> and each stage of the editing
 process.
 
-## <a name="c1_2">Tax tips for writers</a>
+## <a name="c1_2">Tax Tips For Writers</a>
 
 No one enjoys talking about taxes, but it’s a crucial part of the
 publishing process for both those looking for a career or those simply using
@@ -86,7 +86,7 @@ It can be complicated to decide even the most basic things, such as “What is
 tax deductible?” There’s a <a href="http://www.scribendi.com/advice/tax_tips_for_writers.en.html" rel="external">great little guide
 here</a> which should point you in the right direction for your tax considerations.
 
-## <a name="c1_3">Avoiding plagiarism</a>
+## <a name="c1_3">Avoiding Plagiarism</a>
 
 Even novels can plagiarise, so it’s important to keep a clear record of
 everything you do related to your book. For a work of fiction, note down any
@@ -114,7 +114,7 @@ forms:
 1. when can you breach others’ copyright
 2. how to deal with people violating your copyright. 
 
-### Avoiding breaching others’ copyright
+### Avoiding Breaching Others’ Copyright
 
 On the whole it’s very difficult to breach copyright unless you’re actively
 trying to reproduce someone else’s work. Most fiction writers shouldn’t have
@@ -134,14 +134,14 @@ careful about how you reference other works in your own. A <a href="http://www.p
 guide to all kinds of referencing</a> can
 be found here which will give you everything you need to know!
 
-### Protecting your own works
+### Protecting Your Own Works
 
 There’s a great <a href="http://www.whatiscopyright.org/" rel="external">breakdown of copyright information</a>
 here which should give you a good idea of what’s acceptable, and what’s not.
 
 To quickly summarise the important points of copyrighting your work:
 
-####Mark your work as copyrighted.
+####Mark Your Work As Copyrighted.
 
 Lovely simple advice, the rationale behind this being to make a potential infringer think that you take
 the issue seriously.
@@ -154,7 +154,7 @@ Copyright has three sections:
 
 So, copyrighting this guide would be © Stinkyink.com 2012
 
-####Keep evidence of your work as it develops
+####Keep Evidence of Your Work As It Develops
 
 This can be done through a number of established companies who will register
 your copyright for a small fee or by keeping notes and old drafts to show an
@@ -172,7 +172,7 @@ aware of from the issues in the music industry with illegal downloading. This
 is far more difficult to stop, but there are some common sense approaches to
 limiting the potential occurrences:
 
-#### Firstly, does it matter?
+#### Firstly, Does it matter?
 
 <img src="/book-publishing-guide/img/pirate.png" class="align-right" />
 File sharing in small numbers is not too dissimilar to one
@@ -183,7 +183,7 @@ mind that.
 In fact, many ‘pirates’ go on to write reviews and often purchase your book
 later, so a little illegal activity may turn out to be good marketing.
 
-#### Is there a reason people are taking your work without paying?
+#### Is There a Reason People Are Taking Your Work Without Paying?
 
 Taking a common sense approach to the mindset of a file sharer can actually
 highlight the root cause which can be addressed.
@@ -207,7 +207,7 @@ If you think this may be the case, consider offers like giving away the first
 chapter of your book as a teaser. Little things like that can make the
 difference, but we’ll discuss these more in our book marketing tips!
 
-### Further copyright resources...
+### Further Copyright Resources...
 
 There are a number of resources you can go to for further information about
 copyright. Some educational institutes such as
@@ -280,7 +280,7 @@ The majority of publishers or digital publishers will provide an ISBN free of
 charge. If you are going down the self-publishing route, you can buy your own
 ISBN for under £100 quite easily from many different publishing websites.
 
-### Where to buy your own ISBNs in the UK
+### Where to Buy Your Own ISBNs in the UK
 
 * ####<a href="https://www.myidentifiers.com/isbn/main" rel="external">Myidentifiers.com</a>
 
@@ -288,7 +288,7 @@ ISBN for under £100 quite easily from many different publishing websites.
   likelihood you’re going to need more than one! This website has a fantastic
   offer of ten ISBNs for $250, making it the perfect choice for ISBN purchasing.
 
-## <a name="c1_7">Creating a barcode for your book</a>
+## <a name="c1_7">Creating a Barcode For Your Book</a>
 
 <img src="/book-publishing-guide/img/barcode.png" class="align-right" />
 The barcodes on the back of books are actually just an
@@ -306,7 +306,7 @@ Once you register, you’ll be taken to a products page. You should see the
 third heading says ‘Books’ and the top option is the barcode you want,
 ‘Bookland EAN’.
 
-## <a name="c1_8">Writing a good bio</a>
+## <a name="c1_8">Writing a Good Bio</a>
 
 An author biography is your chance to get the reader to open your book and
 find out more details. A bio done badly can be a book-killer; not many readers
@@ -318,9 +318,10 @@ barry-eisler-on-its-the-marketing-stupid.html" rel="external">Check out this gui
 tips</a> on what your author bio is for,
 and how to get the most out of it
 
-## Now you’re good to go
+## Now You’re Good To Go
 
-Your book should now be nigh-on ready to go! If there’s anything you’re still
-concerned about then drop us an email and we’ll look at getting the guide
-updated. Whichever choice of publishing you decide to proceed with, the best
-of luck to you and your soon-to-be bestseller.
+Your book should now be prepped and ready to go! If there’s anything you’re still
+concerned about then drop an email to info@stinkyink.com and we’ll research and update the guide accordingly. 
+
+The following chapters outline the publishing options available to you, and whichever one you decide upon, the best
+of luck to you and your soon-to-be bestseller from the Stinkyink team.
