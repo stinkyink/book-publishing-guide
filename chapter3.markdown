@@ -141,7 +141,7 @@ than he already has. Thanks Michael:
 > because he knows how to get from point A to point B. Therefore, treat him like
 > a trusted guide.
 > 
-> 3. **Cooperate with your editor**. Do everything you can to comply with
+> 3. **Co-operate with your editor**. Do everything you can to comply with
 > the acquisition editor’s requests. Once he agrees to present the project to
 > the Editorial Committee, he has become your representative inside the
 > publishing house. You have to equip him to succeed.
@@ -190,7 +190,7 @@ their 30% share and the agent takes an assumed 15% share.
 
 The vast majority of publishing contracts will sign away the rights for the
 life of the book. Any royalty rate agreed will typically remain for that
-single book, which is whichhy you need to be so careful with initial negotiations.
+single book, which is why you need to be so careful with initial negotiations.
 
 ####Marketing Demands
 
