@@ -27,7 +27,7 @@ niggling errors that have crept in.
 
 This is especially important if you’re pursuing the print publishing route, as
 you only get one chance to make a first impression with a publisher. As Oscar
-Wilde famously said, A poet can survive everything but a misprint.
+Wilde famously said, "A poet can survive everything but a misprint".
 
 If you’ve got a friend or two who can write well, then ask if they will review
 your work. This can give you both a proofreading service and feedback on your
