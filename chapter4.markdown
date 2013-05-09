@@ -4,6 +4,8 @@ id: chapter4
 title: Chapter 4 - Marketing Your Book
 nextpath: /chapter5/
 nextlabel: Chapter 5
+prevpath: /chapter3/
+prevlabel: Chapter 3
 ---
 
 # How to Market Your Book
