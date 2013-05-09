@@ -1,7 +1,7 @@
 ---
 layout: default
 id: chapter4
-title: Chapter 5 - Marketing Your Book
+title: Chapter 4 - Marketing Your Book
 nextpath: /chapter5/
 nextlabel: Chapter 5
 ---
