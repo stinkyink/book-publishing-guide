@@ -8,6 +8,7 @@ nextpath: /epilogue/
 nextlabel: Epilogue
 ---
 
+# How to Protect Your Work
 
 Congratulations on comprising your digital masterpiece.  It warrants much mental and physical effort.  How would you feel if another author offered your work, your fruits of labour, as their own?
 
