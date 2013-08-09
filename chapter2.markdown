@@ -178,7 +178,7 @@ run it by a professional before committing to that cover as the final design.
 
 We got in touch with these companies when publishing this guide, and 
 <a href="http://www.spiffingcovers.com/" rel="external"> Spiffing Covers</a> 
-were kind enough to get back to us and offer a 25% discount for any customers
+were kind enough to get back to us and offer a 25% discount on cover design for any customers
 who get in touch and quote “Stinkyink” to them. Bargain!
 
 You might be able to find a better price, for slightly more effort on your
