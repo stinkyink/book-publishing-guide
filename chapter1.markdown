@@ -67,7 +67,7 @@ use as a benchmark.
   </article>
 
   <article class="service">
-    <h4><a href="http://bubblecow.com/" rel="external">http://bubblecow.com/</a></h4>
+    <h4><a href="http://bubblecow.com/" rel="external">Bubblecow.com/</a></h4>
     <p>If you’re looking for simple pricing and upfront honesty, bubblecow is a great
     little company. There are three clearly segmented packages so you can pick the
     depth of editing you want, and the pricing and time of delivery are clear.</p>
